@@ -830,7 +830,8 @@ table tr td {
   border: 0px solid #cccccc;
   text-align: left;
   margin: 0;
-  padding: 1rem 0.5rem;
+  padding: 0.7rem 0.5rem;
+  vertical-align: top;
 }
 table tr th :first-child,
 table tr td :first-child {
