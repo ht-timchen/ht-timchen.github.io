@@ -14,18 +14,13 @@ author: Tim Chen
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Publications: "publications"
+  About Me: "index"
+  Publications: "pubs"
   Students: "students"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
   # Author's home: "https://deanattali.com"
-
-# --- Landing page --- #
-gems: [jekyll-paginate]
-paginate: 5
-paginate_path: "blog/page:num"
 
 # --- Logo --- #
 
