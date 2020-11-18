@@ -803,6 +803,8 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 
 /* --- Tables --- */
 
+table, th, td { border: none; }
+
 table {
   padding: 0;
 }
@@ -823,7 +825,7 @@ table tr th {
   padding: 0.375rem 0.8125rem;
 }
 table tr 0d {
-  border: 1px solid #cccccc;
+  border: 0px solid #cccccc;
   text-align: left;
   margin: 0;
   padding: 0.375rem 0.8125rem;
