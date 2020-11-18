@@ -23,4 +23,4 @@ title: "Publications"
 |<img src="/assets/img/2013_Faceton.jpg" width="300">|**Facetons: Face Primitives with Adaptive Bounds for 3D Architectural Building in Virtual Environment**<br><br>Naoki Sasaki,  Tim Chen,  Daisuke Sakamoto, and Takeo Igarashi<br>*ACM VRST* 2013<br>|
 |<img src="/assets/img/2013_Splatter.jpg" width="300">|**Interactive Physics-based Ink Splattering Art Creation**<br><br>Eugene Lei, Ying-Chieh Chen,  Tim Chen,  and Chun-Fa Chang<br>*Computer Graphics Forum* 2013<br>|
 |<img src="/assets/img/2011_rev.jpg" width="300">|**Nonlinear Revision Control for Images**<br><br>**Tim Chen**,  Li-Yi Wei, and Chun-Fa Chang<br>*ACM Trans. on Graphics * 2011<br>|
-|-------------------------|    |
+|======================|    |
