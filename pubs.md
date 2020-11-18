@@ -3,9 +3,8 @@ layout: page
 title: "Publications"
 ---
 
-|              |                    |
+|<div style="width:250px"> </div>|  |
 |--------------|--------------------|
-|xxxxxxxxxxxxxxxxxxxxxxxxxxxx|              |
 |<img src="/assets/img/2020_neuroimage.jpg" width="300">|**The Impact of Hand Movement Velocity on Cognitive Conflict Processing in a 3D Object Selection Task in Virtual Reality**<br><br>Avinash K. Singh, Klaus Gramann, **Tim Chen**, and Chin-Teng Lin<br>*NeuroImage (IF=5.90)* 2020<br>|
 |<img src="/assets/img/2020_TCDS.jpg" width="300">|**Intra-individual Completion Time Modulates the Prediction Error Negativity in a Virtual 3D Object Selection Task**<br><br>Avinash K. Singh, **Tim Chen**, Klaus Gramann, and Chin-Teng Lin<br>*IEEE Trans. on Cognitive and Developmental Systems* 2020<br>|
 |<img src="/assets/img/2019_VR_Fall.jpg" width="300">|**Evaluating Balance Recovery Techniques for Users Wearing Head-Mounted Display in VR**<br><br>Carlos A. Tirado Cortes, **Tim Chen**, Daina Sturnieks, Jaime Garcia, Stephen Lord, and Chin-Teng Lin<br>*IEEE Trans. on Visualization and Computer Graphics* 2019<br>|
