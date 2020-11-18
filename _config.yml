@@ -22,6 +22,9 @@ navbar-links:
   #   - Learn markdown: "https://www.markdowntutorial.com/"
   # Author's home: "https://deanattali.com"
 
+# --- Landing page --- #
+paginate_path: "aboutme"
+
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
@@ -33,7 +36,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: "/assets/img/profile.jpg/uoa-logo-v.gif"
+title-img: "/assets/img/uoa-logo-v.gif"
 
 
 # --- Footer social media links --- #
