@@ -5,8 +5,8 @@ title: "Publications"
 
 <table>
 <colgroup>
-<col width="30%" />
-<col width="70%" />
+<col width="35%" />
+<col width="65%" />
 </colgroup>
 <tbody>
 <tr>
