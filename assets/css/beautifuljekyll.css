@@ -824,13 +824,13 @@ table tr th {
   border: 0px solid #cccccc;
   text-align: left;
   margin: 0;
-  padding: 15px 20px;
+  padding: 1rem 0.5rem;
 }
 table tr 0d {
   border: 0px solid #cccccc;
   text-align: left;
   margin: 0;
-  padding: 15px 20px;
+  padding: 1rem 0.5rem;
 }
 table tr th :first-child,
 table tr td :first-child {
