@@ -1,0 +1,3 @@
+- add paper, youtube links
+- add links to authors
+- add Adelaide logo somewhere
