@@ -41,6 +41,7 @@ title-img: "/assets/img/uoa-logo-trans.png"
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
+  google-scholar: UgJAkMgAAAAJ
   email: "tim.chen@adelaide.edu.au"
   # facebook: deanattali
   github: ht-timchen
@@ -62,7 +63,6 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-   # google-scholar: scholar.google.com.au/citations?user=UgJAkMgAAAAJ
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
