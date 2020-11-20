@@ -41,11 +41,11 @@ title-img: "/assets/img/uoa-logo-trans.png"
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  google-scholar: citations?user=UgJAkMgAAAAJ&hl=en
-  email: "tim.chen@adelaide.edu.au"
-  # facebook: deanattali
+  email: tim.chen@adelaide.edu.au
   github: ht-timchen
   twitter: httimchen
+  google-scholar: citations?user=UgJAkMgAAAAJ&hl=en
+  # facebook: deanattali
   # patreon: DeanAttali
   # youtube: c/daattali
 #  reddit: yourname
