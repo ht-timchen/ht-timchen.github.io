@@ -4,15 +4,19 @@ title: "Students"
 author_profile: true
 ---
 
-Ph.D
-======
+## Ph.D
+
 - Carlos Tirado Cortes
 - Songjia Shen
 - Howe Zhu
 - Xiaofei Wang
 
-Master & Undergraduate
-======
+## Master & Undergraduate
+
 - Yuan Zhang
 - Jingyi Cai
-- Wenlong Zheng
+
+
+## Alumnai
+
+- Wenlong Zheng (MS, 2017)
