@@ -15,9 +15,9 @@ author: Tim Chen
 
 navbar-links:
   About Me: "index"
-  Publications: "pubs"
   Teaching: "teaching"
   Students: "students"
+  Publications: "pubs"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"

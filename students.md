@@ -16,7 +16,6 @@ author_profile: true
 - Yuan Zhang
 - Jingyi Cai
 
-
 ## Alumnai
 ---
 - Wenlong Zheng (MS, 2017)
