@@ -801,6 +801,10 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   background-color: {{ site.hover-col | default: "#0085A1" }};
 }
 
+/* --- List --- */
+
+li {list-style-type: none;}
+
 /* --- Tables --- */
 
 table, th, td { border: none; }
