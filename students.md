@@ -6,16 +6,17 @@ author_profile: true
 
 ## Ph.D
 ---
-- Carlos Tirado Cortes
 - Songjia Shen
 - Howe Zhu
 - Xiaofei Wang
+- Alex Minton
 
 ## Master & Undergraduate
 ---
 - Yuan Zhang
 - Jingyi Cai
 
-## Alumnai
+## Alumnai (Degree, First job afterward)
 ---
+- Carlos Tirado Cortes (PhD, 2021. Post-doc at UNSW)
 - Wenlong Zheng (MS, 2017)
