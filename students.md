@@ -11,12 +11,7 @@ author_profile: true
 - Xiaofei Wang
 - Alex Minton
 
-## Master & Undergraduate
----
-- Yuan Zhang
-- Jingyi Cai
-
 ## Alumnai (Degree, First job afterward)
 ---
-- Carlos Tirado Cortes (PhD, 2021. Post-doc at UNSW)
-- Wenlong Zheng (MS, 2017)
+- Carlos Tirado Cortes (PhD 2021, Post-doc at UNSW)
+- Wenlong Zheng (MS 2017)
