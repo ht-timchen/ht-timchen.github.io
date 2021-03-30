@@ -13,7 +13,7 @@ title: "Publications"
 <td><img src="/assets/img/2021_CHIEA_Drone.jpg" width="250"></td><td markdown="span">**A Drone Nearly Hit Me! A Reflection on the Human Factors of Drone Collisions**<br><br>Howe Yuan Zhu, Eirene Margaret Magsino, Sanjid Mahmood Hamim, Chin-Teng Lin, and **Tim Chen**<br>*ACM CHI EA* 2021<br><a href="/assets/publications/2021_CHIEA_Drone.pdf" target="_blank">[paper]</a>  <a href="https://youtu.be/xAMALgG8w7w" target="_blank">[youtube]</a></td>
 </tr>
 <tr>
-<td><img src="/assets/img/2020_neuroimage.jpg" width="250"></td><td markdown="span">**The Impact of Hand Movement Velocity on Cognitive Conflict Processing in a 3D Object Selection Task in Virtual Reality**<br><br>Avinash K. Singh, Klaus Gramann, **Tim Chen**, and Chin-Teng Lin<br>*NeuroImage (IF=5.90)* 2020<br><a href="/assets/publications/2020_Neuroimage.pdf" target="_blank">[paper]</a>  <a href="https://youtu.be/PffvKv9H6ac" target="_blank">[youtube]</a></td>
+<td><img src="/assets/img/2020_neuroimage.jpg" width="250"></td><td markdown="span">**The Impact of Hand Movement Velocity on Cognitive Conflict Processing in a 3D Object Selection Task in Virtual Reality**<br><br>Avinash K. Singh, Klaus Gramann, **Tim Chen**, and Chin-Teng Lin<br>*NeuroImage (h5-i=115)* 2020<br><a href="/assets/publications/2020_Neuroimage.pdf" target="_blank">[paper]</a>  <a href="https://youtu.be/PffvKv9H6ac" target="_blank">[youtube]</a></td>
 </tr>
 <tr>
 <td><img src="/assets/img/2020_TCDS.jpg" width="250"></td><td markdown="span">**Intra-individual Completion Time Modulates the Prediction Error Negativity in a Virtual 3D Object Selection Task**<br><br>Avinash K. Singh, **Tim Chen**, Klaus Gramann, and Chin-Teng Lin<br>*IEEE Trans. on Cognitive and Developmental Systems* 2020<br><a href="/assets/publications/2020_TCDS_conflict.pdf" target="_blank">[paper]</a>   </td>
@@ -61,7 +61,7 @@ title: "Publications"
 <td><img src="/assets/img/2013_Faceton.jpg" width="250"></td><td markdown="span">**Facetons: Face Primitives with Adaptive Bounds for 3D Architectural Building in Virtual Environment**<br><br>Naoki Sasaki,  **Tim Chen**,  Daisuke Sakamoto, and Takeo Igarashi<br>*ACM VRST* 2013<br><a href="/assets/publications/2013_VRST_Faceton.pdf" target="_blank">[paper]</a>  <a href="https://youtu.be/G8lkQ9tLgIs" target="_blank">[youtube]</a></td>
 </tr>
 <tr>
-<td><img src="/assets/img/2013_Splatter.jpg" width="250"></td><td markdown="span">**Interactive Physics-based Ink Splattering Art Creation**<br><br>Eugene Lei, Ying-Chieh Chen,  Tim Chen,  and Chun-Fa Chang<br>*Computer Graphics Forum* 2013<br><a href="/assets/publications/2013_PG_Splattering.pdf" target="_blank">[paper]</a>  <a href="https://youtu.be/oWSqA3KluJA" target="_blank">[youtube]</a></td>
+<td><img src="/assets/img/2013_Splatter.jpg" width="250"></td><td markdown="span">**Interactive Physics-based Ink Splattering Art Creation**<br><br>Eugene Lei, Ying-Chieh Chen, Tim Chen,  and Chun-Fa Chang<br>*Computer Graphics Forum* 2013<br><a href="/assets/publications/2013_PG_Splattering.pdf" target="_blank">[paper]</a>  <a href="https://youtu.be/oWSqA3KluJA" target="_blank">[youtube]</a></td>
 </tr>
 <tr>
 <td><img src="/assets/img/2011_rev.jpg" width="250"></td><td markdown="span">**Nonlinear Revision Control for Images**<br><br>**Tim Chen**,  Li-Yi Wei, and Chun-Fa Chang<br>*ACM Trans. on Graphics * 2011<br><a href="/assets/publications/2011_SIG_revision.pdf" target="_blank">[paper]</a>  <a href="https://youtu.be/RBL1cVzIQik" target="_blank">[youtube]</a></td>
