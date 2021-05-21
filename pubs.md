@@ -10,6 +10,9 @@ title: "Publications"
 </colgroup>
 <tbody>
 <tr>
+<td><img src="/assets/img/2021_Frontier_Assembly.jpg" width="250"></td><td markdown="span">**Effects of Level of Immersion on Virtual Training Transfer of Bimanual Assembly Tasks**<br><br>Songjia Shen, **Tim Chen**, William Raffe, and Tuck Wah Leong<br>*Frontiers in VR* 2021<br><a href="/assets/publications/2021_Frontier_Assembly.pdf" target="_blank">[paper]</a>  <a href="https://youtu.be/wdodl_YrNzs" target="_blank">[youtube]</a></td>
+</tr>
+<tr>
 <td><img src="/assets/img/2021_CHIEA_Drone.jpg" width="250"></td><td markdown="span">**A Drone Nearly Hit Me! A Reflection on the Human Factors of Drone Collisions**<br><br>Howe Yuan Zhu, Eirene Margaret Magsino, Sanjid Mahmood Hamim, Chin-Teng Lin, and **Tim Chen**<br>*ACM CHI EA* 2021<br><a href="/assets/publications/2021_CHIEA_Drone.pdf" target="_blank">[paper]</a>  <a href="https://youtu.be/xAMALgG8w7w" target="_blank">[youtube]</a></td>
 </tr>
 <tr>
