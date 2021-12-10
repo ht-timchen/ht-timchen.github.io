@@ -10,6 +10,9 @@ title: "Publications"
 </colgroup>
 <tbody>
 <tr>
+<td><img src="/assets/img/2021_TVCG_VRPlank.jpg" width="250"></td><td markdown="span">**The Effects of Virtual and Physical Elevation on Physiological Stress during Virtual Reality Height Exposure**<br><br>Howe Yuan Zhu, **Tim Chen**, and Chin-Teng Lin<br>*IEEE Trans. on Visualization and Computer Graphics* 2021<br><a href="/assets/publications/2021_TVCG_VRPlank.pdf" target="_blank">[paper]</a>  <a href="https://youtu.be/3PupSWZg55I" target="_blank">[youtube]</a></td>
+</tr>
+<tr>
 <td><img src="/assets/img/2021_Frontier_Assembly.jpg" width="250"></td><td markdown="span">**Effects of Level of Immersion on Virtual Training Transfer of Bimanual Assembly Tasks**<br><br>Songjia Shen, **Tim Chen**, William Raffe, and Tuck Wah Leong<br>*Frontiers in VR* 2021<br><a href="/assets/publications/2021_Frontier_Assembly.pdf" target="_blank">[paper]</a>  <a href="https://youtu.be/wdodl_YrNzs" target="_blank">[youtube]</a></td>
 </tr>
 <tr>
