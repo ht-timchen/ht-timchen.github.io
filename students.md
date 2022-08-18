@@ -8,10 +8,11 @@ author_profile: true
 ---
 - Songjia Shen 
 - Alex Minton 
-- Xiaoyan Wei
 - Hussain Ahmad 
 - William Jiang 
+- Xiaoyan Wei
 - Renjie Wu
+- Pitawelayalage Dasun Dileepa Pitawela
 
 ## Alumnai (Degree, First job afterward)
 ---
