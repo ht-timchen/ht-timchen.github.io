@@ -6,13 +6,12 @@ author_profile: true
 
 ## HDR (Ph.D / MPhil)
 ---
-- Songjia Shen 
-- Alex Minton 
-- Hussain Ahmad 
-- William Jiang 
+- Songjia Shen (co-supervise with Tuck Leong)
+- Alex Minton (co-supervise with CT Lin)
+- William Jiang (co-supervise with Ali Babar)
 - Xiaoyan Wei
 - Renjie Wu
-- Pitawelayalage Dasun Dileepa Pitawela
+- Dileepa Pitawela
 
 ## Alumnai (Degree, First job afterward)
 ---
