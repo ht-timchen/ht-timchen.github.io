@@ -11,7 +11,8 @@ author_profile: true
 - William Jiang (co-supervise with Ali Babar)
 - Xiaoyan Wei
 - Renjie Wu
-- Dileepa Pitawela
+- Dileepa Pitawela
+- Alison Deslandes (co-supervise with Louise Hull)
 
 ## Alumnai (Degree, First job afterward)
 ---
