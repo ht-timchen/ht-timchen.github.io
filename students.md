@@ -12,7 +12,7 @@ author_profile: true
 - Xiaoyan Wei
 - Renjie Wu
 - Dileepa Pitawela
-- Alison Deslandes (co-supervise with Louise Hull)
+- [Alison Deslandes](https://www.linkedin.com/in/alison-deslandes-15142452/) (co-supervise with Louise Hull)
 
 ## Alumnai (Degree, First job afterward)
 ---
