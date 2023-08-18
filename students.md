@@ -17,7 +17,7 @@ author_profile: true
 
 ## Alumnai (Degree, First job afterward)
 ---
-- Xiaofei Wang (co-supervise with CT Lin, PhD 2022, Geobotica)
-- [Howe Zhu](https://www.linkedin.com/in/howe-yuan-zhu/) (co-supervise with CT Lin, PhD 2021, Post-doc at University of Technology Sydney)
-- [Carlos Tirado](https://research.unsw.edu.au/people/dr-carlos-tirado-cortes) Cortes (co-supervise with CT Lin, PhD 2021, Post-doc at University of New South Wales)
-- Wenlong Zheng (co-supervise with Chek Tan, MS 2017)
+- Xiaofei Wang (PhD 2022, Geobotica)
+- [Howe Zhu](https://www.linkedin.com/in/howe-yuan-zhu/) (PhD 2021, Post-doc at University of Technology Sydney)
+- [Carlos Tirado](https://research.unsw.edu.au/people/dr-carlos-tirado-cortes) Cortes (PhD 2021, Post-doc at University of New South Wales)
+- Wenlong Zheng (MPhil 2017)
