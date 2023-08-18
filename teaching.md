@@ -6,15 +6,22 @@ author_profile: true
 
 ## University of Adelaide (2020~)
 ---
-- **Introduction to Programming for IT Specialist**
-	- *course designer and instructor*
-	- Python programming for Bachelor of IT students
-- **Introduction to Computer System, Network, and Security**
-	- *course designer and instructor*
+- **Foundation of Computer Science A&B (Current)**
+	- *course designer and lecturer*
+	- introductory computer science and programming course for Master of Computaitonal Innovation students
+- **Introduction to Computer System, Network, and Security (Current)**
+	- *course designer and lecturer*
 	- introductory computer science course for Bachelor of IT students
-- **IT Project**
-	- *instructor*
-	- year 1 project course
+
+- **Programming for IT Specialist (2020~2022)**
+	- *course designer and lecturer*
+	- Data structure and algorithm design for Bachelor of IT students
+- **Introduction to Programming for IT Specialist (2020~2022)**
+	- *course designer and lecturer*
+	- Python programming for Bachelor of IT students
+- **IT Project (2020~2022)**
+	- *course designer and lecturer*
+	- introductory year 1 project course
 
 ## University of Technology Sydney (2016~2019)
 ---
