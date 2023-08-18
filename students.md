@@ -9,10 +9,11 @@ author_profile: true
 - Songjia Shen (co-supervise with Tuck Leong)
 - Alex Minton (co-supervise with CT Lin)
 - William Jiang (co-supervise with Ali Babar)
-- Xiaoyan Wei
-- Renjie Wu
-- Dileepa Pitawela
+- Xiaoyan Wei (co-supervise with Qi Wu)
+- Renjie Wu (co-supervise with Feras Dayoub)
+- Dileepa Pitawela (co-supervise with Gustavo Carneiro)
 - [Alison Deslandes](https://www.linkedin.com/in/alison-deslandes-15142452/) (co-supervise with Louise Hull)
+- Nilesh Ramgolam (co-supervise with Gustavo Carneiro)
 
 ## Alumnai (Degree, First job afterward)
 ---
