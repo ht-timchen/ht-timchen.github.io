@@ -10,7 +10,7 @@ title: "Publications"
 </colgroup>
 <tbody>
 <tr>
-<td><img src="/assets/img/2023_ISMAR_Mismatch.png" width="250"></td><td markdown="span">**The Effect of Visual and Auditory Modality Mismatching between Distraction and Warning on Pedestrian Street Crossing Behavior**<br><br>Renjie Wu, and  **Tim Chen**<br>*IEEE ISMAR* 2023<br><a href="/assets/publications/2023_ISMAR_Mismatch.pdf" target="_blank">[paper]</a>   </td>
+<td><img src="/assets/img/2023_ISMAR_Mismatch.png" width="250"></td><td markdown="span">**The Effect of Visual and Auditory Modality Mismatching between Distraction and Warning on Pedestrian Street Crossing Behavior**<br><br>Renjie Wu, and  **Tim Chen**<br>*IEEE ISMAR* 2023<br><a href="/assets/publications/2023_ISMAR_Mismatch.pdf" target="_blank">[paper]</a>  <a href="https://youtu.be/0hMG3Ra4XE8" target="_blank">[youtube]</a></td>
 </tr>
 <tr>
 <td><img src="/assets/img/2023_VR_Sickness.png" width="250"></td><td markdown="span">**An EEG-based Experiment on VR Sickness and Postural Instability While Walking in Virtual Environments **<br><br>Carlos A. Tirado Cortes, Chin-Teng Lin, Tien-Thong Nguyen Do, and **Tim Chen**<br>*IEEE VR* 2023<br><a href="/assets/publications/2023_VR_Sickness.pdf" target="_blank">[paper]</a>  <a href="https://youtu.be/c5vwmdgTReA" target="_blank">[youtube]</a></td>
