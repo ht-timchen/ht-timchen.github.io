@@ -4,16 +4,18 @@ title: "Students"
 author_profile: true
 ---
 
-## HDR (Ph.D / MPhil)
----
-- Songjia Shen (co-supervise with Tuck Leong)
-- Alex Minton (co-supervise with CT Lin)
-- William Jiang (co-supervise with Ali Babar)
-- Xiaoyan Wei (co-supervise with Qi Wu)
-- Renjie Wu (co-supervise with Feras Dayoub)
-- Dileepa Pitawela (co-supervise with Gustavo Carneiro)
-- [Alison Deslandes](https://www.linkedin.com/in/alison-deslandes-15142452/) (co-supervise with Louise Hull)
-- Nilesh Ramgolam (co-supervise with Gustavo Carneiro)
+## HDR (Principal Supervisor)
+- Ruoxi Sun (with Jason Xue)
+- Xiaoyan Wei (with Qi Wu)
+- Renjie Wu (with Feras Dayoub)
+- Dileepa Pitawela (with Gustavo Carneiro)
+- Nilesh Ramgolam (with Gustavo Carneiro)
+
+## HDR (Co-supervisor)
+- Songjia Shen (with Tuck Leong)
+- Alex Minton (with CT Lin)
+- William Jiang (with Ali Babar)
+- [Alison Deslandes](https://www.linkedin.com/in/alison-deslandes-15142452/) (with Louise Hull)
 
 ## Alumnai (Degree, First job afterward)
 ---
