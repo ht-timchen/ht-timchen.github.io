@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## HDR (Principal Supervisor)
-- Ruoxi Sun (with Jason Xue)
+- [Ruoxi Sun](https://scholar.google.com/citations?user=Ei4jdwQAAAAJ&hl=en) (with Jason Xue)
 - Xiaoyan Wei (with Qi Wu)
 - Renjie Wu (with Feras Dayoub)
 - Dileepa Pitawela (with Gustavo Carneiro)
