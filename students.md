@@ -5,7 +5,6 @@ author_profile: true
 ---
 
 ## HDR (Principal Supervisor)
-- [Ruoxi Sun](https://scholar.google.com/citations?user=Ei4jdwQAAAAJ&hl=en) (with Jason Xue)
 - Xiaoyan Wei (with Qi Wu)
 - Renjie Wu (with Feras Dayoub)
 - Dileepa Pitawela (with Gustavo Carneiro)
@@ -19,6 +18,7 @@ author_profile: true
 
 ## Alumnai (Degree, First job afterward)
 ---
+- [Ruoxi Sun](https://scholar.google.com/citations?user=Ei4jdwQAAAAJ&hl=en) (PhD 2023, CSIRO Data 61)
 - Xiaofei Wang (PhD 2022, Geobotica)
 - [Howe Zhu](https://www.linkedin.com/in/howe-yuan-zhu/) (PhD 2021, Post-doc at University of Technology Sydney)
 - [Carlos Tirado](https://research.unsw.edu.au/people/dr-carlos-tirado-cortes) Cortes (PhD 2021, Post-doc at University of New South Wales)
