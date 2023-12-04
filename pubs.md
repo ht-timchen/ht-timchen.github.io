@@ -16,6 +16,9 @@ title: "Publications"
 <td><img src="/assets/img/2023_VR_Sickness.png" width="250"></td><td markdown="span">**An EEG-based Experiment on VR Sickness and Postural Instability While Walking in Virtual Environments**<br><br>Carlos A. Tirado Cortes, Chin-Teng Lin, Tien-Thong Nguyen Do, and **Tim Chen**<br>*IEEE VR* 2023<br><a href="/assets/publications/2023_VR_Sickness.pdf" target="_blank">[paper]</a>  <a href="https://youtu.be/c5vwmdgTReA" target="_blank">[youtube]</a></td>
 </tr>
 <tr>
+<td><img src="/assets/img/2022_ISBI_Track.png" width="250"></td><td markdown="span">**In Defense of Kalman Filtering for Polyp Tracking from Colonoscopy Videos**<br><br>David Butler, Yuan Zhang, **Tim Chen**, Seon Ho Shin, Rajvinder Singh, and Gustavo Carneiro<br>*IEEE ISBI* 2022<br><a href="/assets/publications/2022_ISBI_Track.pdf" target="_blank">[paper]</a>   </td>
+</tr>
+<tr>
 <td><img src="/assets/img/2022_JNE_Shared.jpg" width="250"></td><td markdown="span">**Error-related potential-based shared autonomy via deep recurrent reinforcement learning**<br><br>Xiaofei Wang, **Tim Chen**, and Chin-Teng Lin<br>*Journal of Neural Engineering* 2022<br><a href="/assets/publications/2022_JNE_shared autonomy.pdf" target="_blank">[paper]</a>   </td>
 </tr>
 <tr>
