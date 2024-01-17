@@ -5,10 +5,12 @@ author_profile: true
 ---
 
 ## HDR (Principal Supervisor)
-- Xiaoyan Wei (with Qi Wu)
-- Renjie Wu (with Feras Dayoub)
-- Dileepa Pitawela (with Gustavo Carneiro)
-- Nilesh Ramgolam (with Gustavo Carneiro)
+- Xiaoyan Wei (with [Qi Wu](http://www.qi-wu.me/))
+- Renjie Wu (with [Feras Dayoub](https://ferasdayoub.com/))
+- Dileepa Pitawela (with [Gustavo Carneiro](https://www.surrey.ac.uk/people/gustavo-carneiro))
+- Nilesh Ramgolam (with [Gustavo Carneiro](https://www.surrey.ac.uk/people/gustavo-carneiro))
+- Hanwen Wang
+- Vera Lawless (with [Matthew Roughan](https://matthew.roughan.info/)) 
 
 ## HDR (Co-supervisor)
 - Songjia Shen (with Tuck Leong)
