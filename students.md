@@ -9,7 +9,7 @@ author_profile: true
 - Renjie Wu (with [Feras Dayoub](https://ferasdayoub.com/))
 - Dileepa Pitawela (with [Gustavo Carneiro](https://www.surrey.ac.uk/people/gustavo-carneiro))
 - Nilesh Ramgolam (with [Gustavo Carneiro](https://www.surrey.ac.uk/people/gustavo-carneiro))
-- Hanwen Wang
+- Hanwen Wang (with [Hu Wang](https://huwang01.github.io/))
 - Vera Lawless (with [Matthew Roughan](https://matthew.roughan.info/)) 
 
 ## HDR (Co-supervisor)
