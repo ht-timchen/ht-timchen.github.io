@@ -6,20 +6,20 @@ author_profile: true
 
 ## University of Adelaide (2020~)
 ---
-- **Foundation of Computer Science A&B (Current)**
+- **Foundation of Computer Science A&B (2023, 2024)**
 	- *course designer and lecturer*
 	- introductory computer science and programming course for Master of Computaitonal Innovation students
-- **Introduction to Computer System, Network, and Security (Current)**
+- **Introduction to Computer System, Network, and Security (2020, 2021, 2023)**
 	- *course designer and lecturer*
 	- introductory computer science course for Bachelor of IT students
 
-- **Programming for IT Specialist (2020~2022)**
+- **Programming for IT Specialist (2020, 2021, 2022)**
 	- *course designer and lecturer*
 	- Data structure and algorithm design for Bachelor of IT students
-- **Introduction to Programming for IT Specialist (2020~2022)**
+- **Introduction to Programming for IT Specialist (2020, 2021, 2022)**
 	- *course designer and lecturer*
 	- Python programming for Bachelor of IT students
-- **IT Project (2020~2022)**
+- **IT Project (2020, 2021, 2022)**
 	- *course designer and lecturer*
 	- introductory year 1 project course
 
