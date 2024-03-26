@@ -17,7 +17,7 @@ author_profile: true
 - William Jiang (with Ali Babar)
 - [Alison Deslandes](https://www.linkedin.com/in/alison-deslandes-15142452/) (with Louise Hull)
 
-## Alumnai (Degree, First job afterward)
+## Alumnai (Degree, Next job)
 ---
 - [Ruoxi Sun](https://scholar.google.com/citations?user=Ei4jdwQAAAAJ&hl=en) (PhD 2023, CSIRO Data 61)
 - Xiaofei Wang (PhD 2022, Geobotica)
