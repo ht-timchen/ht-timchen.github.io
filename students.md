@@ -13,7 +13,6 @@ author_profile: true
 - Vera Lawless (with [Matthew Roughan](https://matthew.roughan.info/)) 
 
 ## HDR (Co-supervisor)
-- Songjia Shen (with Tuck Leong)
 - Alex Minton (with CT Lin)
 - William Jiang (with Ali Babar)
 - [Alison Deslandes](https://www.linkedin.com/in/alison-deslandes-15142452/) (with Louise Hull)
