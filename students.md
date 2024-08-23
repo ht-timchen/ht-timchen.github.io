@@ -17,10 +17,9 @@ author_profile: true
 - William Jiang (with Ali Babar)
 - [Alison Deslandes](https://www.linkedin.com/in/alison-deslandes-15142452/) (with Louise Hull)
 
-## Alumnai (Degree, Next job)
+## Alumnai (Degree, Current job)
 ---
 - [Ruoxi Sun](https://scholar.google.com/citations?user=Ei4jdwQAAAAJ&hl=en) (PhD 2023, CSIRO Data 61)
-- Xiaofei Wang (PhD 2022, Geobotica)
-- [Howe Zhu](https://www.linkedin.com/in/howe-yuan-zhu/) (PhD 2021, Post-doc at University of Technology Sydney)
-- [Carlos Tirado](https://research.unsw.edu.au/people/dr-carlos-tirado-cortes) Cortes (PhD 2021, Post-doc at University of New South Wales)
-- Wenlong Zheng (MPhil 2017)
+- Xiaofei Wang (PhD 2022, Research Engineer at USyd)
+- [Howe Zhu](https://www.linkedin.com/in/howe-yuan-zhu/) (PhD 2021, Lecturer at USyd)
+- [Carlos Tirado](https://research.unsw.edu.au/people/dr-carlos-tirado-cortes) Cortes (PhD 2021, Lecturer at USyd)
