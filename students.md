@@ -6,7 +6,6 @@ author_profile: true
 
 ## HDR (Principal Supervisor)
 - Xiaoyan Wei (with [Qi Wu](http://www.qi-wu.me/))
-- Renjie Wu (with [Feras Dayoub](https://ferasdayoub.com/))
 - Dileepa Pitawela (with [Gustavo Carneiro](https://www.surrey.ac.uk/people/gustavo-carneiro))
 - Nilesh Ramgolam (with [Gustavo Carneiro](https://www.surrey.ac.uk/people/gustavo-carneiro))
 - Hanwen Wang (with [Hu Wang](https://huwang01.github.io/))
@@ -19,6 +18,7 @@ author_profile: true
 
 ## Alumnai (Degree, Current job)
 ---
+- Renjie Wu (MPhil 2024, Hong Kong Baptist University PhD)
 - [Ruoxi Sun](https://scholar.google.com/citations?user=Ei4jdwQAAAAJ&hl=en) (PhD 2023, CSIRO Data 61)
 - Xiaofei Wang (PhD 2022, Research Engineer at USyd)
 - [Howe Zhu](https://www.linkedin.com/in/howe-yuan-zhu/) (PhD 2021, Lecturer at USyd)
