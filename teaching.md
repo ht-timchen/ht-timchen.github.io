@@ -10,6 +10,7 @@ author_profile: true
 - **Foundation of Computer Science A&B (2023~Now)**
 	- *course designer and lecturer*
 	- introductory computer science and programming course for Master of Computaitonal Innovation students
+
 ### Previous
 - **Introduction to Computer System, Network, and Security (2020~2023)**
 	- *course designer and lecturer*
