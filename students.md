@@ -10,6 +10,7 @@ author_profile: true
 - Nilesh Ramgolam (with [Gustavo Carneiro](https://www.surrey.ac.uk/people/gustavo-carneiro))
 - Hanwen Wang (with [Hu Wang](https://huwang01.github.io/))
 - Vera Lawless (with [Matthew Roughan](https://matthew.roughan.info/)) 
+- Ni Min (with [Etienne Peillard](https://www.etiennepeillard.com/)
 
 ## HDR (Co-supervisor)
 - Alex Minton (with CT Lin)
@@ -18,7 +19,7 @@ author_profile: true
 
 ## Alumnai (Degree, Current job)
 ---
-- Renjie Wu (MPhil 2024, Hong Kong Baptist University PhD)
+- Renjie Wu (MPhil 2024, ANU PhD)
 - [Ruoxi Sun](https://scholar.google.com/citations?user=Ei4jdwQAAAAJ&hl=en) (PhD 2023, CSIRO Data 61)
 - Xiaofei Wang (PhD 2022, Research Engineer at USyd)
 - [Howe Zhu](https://www.linkedin.com/in/howe-yuan-zhu/) (PhD 2021, Lecturer at USyd)
