@@ -10,7 +10,7 @@ author_profile: true
 - Nilesh Ramgolam (with [Gustavo Carneiro](https://www.surrey.ac.uk/people/gustavo-carneiro))
 - Hanwen Wang (with [Hu Wang](https://huwang01.github.io/))
 - Vera Lawless (with [Matthew Roughan](https://matthew.roughan.info/)) 
-- Ni Min (with [Etienne Peillard](https://www.etiennepeillard.com/)
+- Ni Min (with [Etienne Peillard](https://www.etiennepeillard.com/))
 
 ## HDR (Co-supervisor)
 - Alex Minton (with CT Lin)
