@@ -10,6 +10,8 @@ Before joining Adelaide, I had the honor of working with [Prof. Patrick Baudisch
 
 ### Recent activities
 
+- Jan 2025: 2 papers about learning and training in VR were accepted to CHI 2025
+- Dec 2024: The IMAGENDO team was awared an NHMRC idea project (10% success rate)!
 - July 2024: Will serve as an AC for VR 2025
 - July 2024: Will serve as an AC for CHI 2025
 - June 2024: Served on the jury committee for SIGGRAPH 2024 Poster
@@ -17,4 +19,4 @@ Before joining Adelaide, I had the honor of working with [Prof. Patrick Baudisch
 
 ### To BIT, BCS, and BCS Adv students at the University of Adelaide
 
-Please visit [this repository](https://github.cs.adelaide.edu.au/a1227750/CS-IT-program-issues) if you have suggesstions about the BIT, BCS, BCS Adv programs 
+Please visit [this repository](https://github.cs.adelaide.edu.au/a1227750/CS-IT-program-issues) if you have suggesstions about the BIT program 
