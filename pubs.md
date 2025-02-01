@@ -10,7 +10,13 @@ title: "Publications"
 </colgroup>
 <tbody>
 <tr>
-<td><img src="/assets/img/2024_AAAI_SBV.png" width="250"></td><td markdown="span">**Segment Beyond View: Handling Partially Missing Modality for Audio-Visual Semantic Segmentation**<br><br>Renjie Wu, Hu Wang, Feras Dayoub, and **Tim Chen**<br>*AAAI* 2024<br><a href="/assets/publications/2024_AAAI_SBV.pdf" target="_blank">[paper]</a>   </td>
+<td><img src="/assets/img/2025_CHI_LM.jpg" width="250"></td><td markdown="span">**A Longitudinal Study on The Effects of Circadian Fatigue on Sound Source Identification and Localization using Heads-Up Displays**<br><br>Alexander G. Minton, Howe Yuan Zhu, **Tim Chen**, Yu-Kai Wang, Zhuoli Zhuang, Gina Notaro, Raquel Galvan, James Allen, Matthias D. Ziegler, Chin-Teng Lin<br>*CHI* 2025<br>[paper]   </td>
+</tr>
+<tr>
+<td><img src="/assets/img/2025_CHI_XRAuthor.jpg" width="250"></td><td markdown="span">**Educator Perceptions of XRAuthor: An Accessible Tool for Authoring Learning Content with Different Immersion Levels**<br><br>Songjia Shen, Chek Tien Tan, **Tim Chen**, William L. Raffe, Tuck Wah Leong<br>*CHI* 2025<br>[paper]   </td>
+</tr>
+<tr>
+<td><img src="/assets/img/2024_AAAI_SBV.png" width="250"></td><td markdown="span">**Segment beyond View: Handling Partially Missing Modality for Audio-Visual**<br><br>Renjie Wu, Hu Wang, Feras Dayoub, and **Tim Chen**<br>*AAAI* 2024<br><a href="/assets/publications/2024_AAAI_SBV.pdf" target="_blank">[paper]</a>   </td>
 </tr>
 <tr>
 <td><img src="/assets/img/2024_AAAI_WebVLN.png" width="250"></td><td markdown="span">**WebVLN: Vision-and-Language Navigation on Websites**<br><br>Qi Chen, Dileepa Pitawela, Gengze Zhou, **Tim Chen**, and Qi Wu<br>*AAAI* 2024<br><a href="/assets/publications/2024_AAAI_WebVLN.pdf" target="_blank">[paper]</a>   </td>
