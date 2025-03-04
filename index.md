@@ -10,10 +10,11 @@ Before joining Adelaide, I had the honor of working with [Prof. Patrick Baudisch
 
 ### Recent activities
 
+- Feb 2025: The IMAGENDO team was awarded the [AEA Ignite Grant](https://www.aea.gov.au/news/aea-ignite-grants-support-nationally-significant-research) (~$500k)!
 - Feb 2025: Dileepa's paper on contrastive learning for ordinal ranking got accepted to CVPR 2025
 - Feb 2025: Will serve on the jury committee for SIGGRAPH 2025 posters
 - Jan 2025: 2 papers about learning and training in VR were accepted to CHI 2025
-- Dec 2024: The IMAGENDO team was awared an NHMRC idea project (10% success rate)!
+- Dec 2024: The IMAGENDO team was awared an NHMRC idea project (10% success rate, ~$2M)!
 - July 2024: Will serve as an AC for VR 2025
 - July 2024: Will serve as an AC for CHI 2025
 - June 2024: Served on the jury committee for SIGGRAPH 2024 Poster
