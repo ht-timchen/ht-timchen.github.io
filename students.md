@@ -11,6 +11,7 @@ author_profile: true
 - Hanwen Wang (with [Hu Wang](https://huwang01.github.io/))
 - [Vera Lawless](https://www.linkedin.com/in/veralawless/) (with [Matthew Roughan](https://matthew.roughan.info/)) 
 - Ni Min (with [Etienne Peillard](https://www.etiennepeillard.com/))
+- Lokesha Rasanjalee (with [Rajvinder Singh](https://researchers.adelaide.edu.au/profile/rajvinder.singh)) 
 
 ## HDR (Co-supervisor)
 - Alex Minton (with CT Lin)
