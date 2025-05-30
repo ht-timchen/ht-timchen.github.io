@@ -9,7 +9,7 @@ I am a senior lecturer (tenured assistant professor in other systems) at the [Sc
 Before joining Adelaide, I had the honor of working with [Prof. Patrick Baudisch](https://hpi.de/baudisch/home.html) (HPI), [Prof. Takeo Igarashi](https://www-ui.is.s.u-tokyo.ac.jp/~takeo/) (U of Tokyo), [Prof CT Lin](https://profiles.uts.edu.au/chin-teng.lin) (UTS), and [Dr. Li-Yi Wei](https://www.liyiwei.org) (Adobe Research) across various research fields including Human-Computer Interaction, Computer Graphics, Brain-Computer Interface, and AI/ML. 
 
 ### Recent activities
-- Feb 2025: Will serve as an AC (Health) for CHI 2026 
+- Apr 2025: Will serve as an AC (Health) for CHI 2026 
 - Feb 2025: The IMAGENDO team was awarded the [AEA Ignite Grant](https://www.aea.gov.au/news/aea-ignite-grants-support-nationally-significant-research) (~$500k)!
 - Feb 2025: Dileepa's paper on contrastive learning for ordinal ranking got accepted to CVPR 2025
 - Feb 2025: Will serve on the jury committee for SIGGRAPH 2025 posters
