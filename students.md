@@ -20,6 +20,8 @@ author_profile: true
 
 ## Alumnai (Degree, Current)
 ---
+- Alexander Minton (PhD 2025)
+- Songjia Shen (PhD 2025, Singapore Institute of Technology Researcher)
 - Renjie Wu (MPhil 2024, ANU PhD)
 - [Ruoxi Sun](https://scholar.google.com/citations?user=Ei4jdwQAAAAJ&hl=en) (PhD 2023, Researcher at CSIRO Data 61)
 - Xiaofei Wang (PhD 2022, Research Engineer at USyd)
