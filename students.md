@@ -14,8 +14,6 @@ author_profile: true
 - Lokesha Rasanjalee (with [Rajvinder Singh](https://researchers.adelaide.edu.au/profile/rajvinder.singh)) 
 
 ## HDR (Co-supervisor)
-- Alex Minton (with CT Lin)
-- William Jiang (with Ali Babar)
 - [Alison Deslandes](https://www.linkedin.com/in/alison-deslandes-15142452/) (with Louise Hull)
 
 ## Alumnai (Degree, Current)
