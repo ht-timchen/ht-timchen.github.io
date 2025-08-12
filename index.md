@@ -11,6 +11,7 @@ My research mission is to **augment human capabilities by engineering human-cent
 <img src="/assets/img/research_theme.jpg">
 
 ### Recent activities
+- Aug 2025: Vibe coded an ARC DP analysis website [ARC DP Analysis](https://ht-timchen.github.io/arc-discovery-analysis/)
 - Apr 2025: Will serve as an AC (Health) for CHI 2026 
 - Feb 2025: The IMAGENDO team was awarded the [AEA Ignite Grant](https://www.aea.gov.au/news/aea-ignite-grants-support-nationally-significant-research) (~$500k)!
 - Feb 2025: Dileepa's paper on contrastive learning for ordinal ranking got accepted to CVPR 2025
