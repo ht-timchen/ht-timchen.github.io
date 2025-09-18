@@ -8,6 +8,8 @@ I am a senior lecturer (tenured assistant professor in other systems) at the [Sc
 
 My research mission is to **augment human capabilities by engineering human-centred AI systems**. I pursue this mission by actively exploring emerging technologies to build novel interactive AI systems that empower and collaborate effectively with knowledge workers. This hands-on pursuit has led to my leadership roles in large interdisciplinary teams, including serving as the U of Adelaide research lead for the [Augmenting Ability CRC](https://augmentingabilitycrc.com.au/) and as the human-AI interface lead for the [Eureka Prize-winning](https://australian.museum/get-involved/eureka-prizes/2023-eureka-prize-winners/), MRFF-funded [IMAGENDO Project](https://imagendo.org.au/). These shaped my exploration of human-AI interaction through three evolving paradigms: **AI as Assistant**, **AI as Collaborator**, and **AI as Oracle**. Please see my <a href="/assets/publications/2025_research_statement.pdf" target="_blank">research statement</a> for more detail.
 
+During my limited free time, I vibe code for fun, such as this [ARC Funding Analysis](https://ht-timchen.github.io/arc-discovery-analysis/) website. 
+
 <img src="/assets/img/research_theme.jpg">
 
 ### Recent activities
