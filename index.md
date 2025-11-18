@@ -13,6 +13,7 @@ In my limited free time, I enjoy vibe coding for fun. For example, creating the 
 <img src="/assets/img/research_theme.jpg">
 
 ### Recent activities
+- Nov 2025: [Jie](https://www.linkedin.com/in/jie-yang-b42615235/)'s paper on multi-view clustering is accepted to AAAI 25. 
 - Aug 2025: Vibe coded an ARC DP analysis website [ARC DP Analysis](https://ht-timchen.github.io/arc-discovery-analysis/)
 - Apr 2025: Will serve as an AC (Health) for CHI 2026 
 - Feb 2025: The IMAGENDO team was awarded the [AEA Ignite Grant](https://www.aea.gov.au/news/aea-ignite-grants-support-nationally-significant-research) (~$500k)!
