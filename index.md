@@ -10,6 +10,7 @@ My research mission is to **augment human capabilities by engineering human-cent
 In my limited free time, I enjoy vibe coding for fun. For example, creating the [ARC Funding Analysis](https://ht-timchen.github.io/arc-discovery-analysis/) website.
 
 ### Recent activities
+- Nov 2025: Gave two talks at [IMT Atlantique](www.imt-atlantique.fr) about human-AI collaboration for situational awareness and health. Thanks for the invitations from [INUIT](https://labsticc.fr/en/teams/inuit) and [DSD](https://www.imt-atlantique.fr/fr/l-ecole/departements-d-enseignement-recherche/data-science)
 - Nov 2025: [Jie](https://www.linkedin.com/in/jie-yang-b42615235/)'s paper on multi-view clustering is accepted to AAAI 26. 
 - Aug 2025: Vibe coded an ARC DP analysis website [ARC DP Analysis](https://ht-timchen.github.io/arc-discovery-analysis/)
 - Apr 2025: Will serve as an AC (Health) for CHI 2026 
@@ -18,6 +19,3 @@ In my limited free time, I enjoy vibe coding for fun. For example, creating the 
 - Feb 2025: Will serve on the jury committee for SIGGRAPH 2025 posters
 - Jan 2025: 2 papers about learning and training in VR were accepted to CHI 2025
 - Dec 2024: The IMAGENDO team was awared an NHMRC idea project (10% success rate, ~$2M)!
-- July 2024: Will serve as an AC for VR 2025
-- July 2024: Will serve as an AC (Interaction with Device) for CHI 2025
-- June 2024: Served on the jury committee for SIGGRAPH 2024 Poster
