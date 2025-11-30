@@ -85,7 +85,17 @@ def sort_tags(all_tags, priority_tags):
 
 def create_color_mapping(tags, color_palette):
     """Create color mapping for all tags."""
-    return {tag: get_tag_color(tag, color_palette) for tag in tags}
+    tag_colors = {}
+    # Assign specific color to Medical tag
+    medical_color = '#C8E6D4'  # Pantone 7470 C – soft mint (medical/health green)
+    
+    for tag in tags:
+        if tag == 'Medical':
+            tag_colors[tag] = medical_color
+        else:
+            tag_colors[tag] = get_tag_color(tag, color_palette)
+    
+    return tag_colors
 
 # ============================================================================
 # HTML Generation Functions
