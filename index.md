@@ -11,7 +11,7 @@ In my limited free time, I enjoy vibe coding for fun. For example, creating the 
 
 ### Recent activities
 - Nov 2025: Gave a talk on health HCI for [SIGCHI Paris Chapter](https://paris.sigchi.acm.org/) at [IRIS](https://www.isir.upmc.fr/?lang=en).
-- Nov 2025: Gave two talks for [INUIT](https://labsticc.fr/en/teams/inuit) and [DSD](https://www.imt-atlantique.fr/fr/l-ecole/departements-d-enseignement-recherche/data-science) at [IMT Atlantique](www.imt-atlantique.fr) about human-AI collaboration for situational awareness and health. 
+- Nov 2025: Gave two talks for [INUIT](https://labsticc.fr/en/teams/inuit) and [DSD](https://www.imt-atlantique.fr/fr/l-ecole/departements-d-enseignement-recherche/data-science) at [IMT Atlantique](www.imt-atlantique.fr) about human-AI collaboration. 
 - Nov 2025: [Jie](https://www.linkedin.com/in/jie-yang-b42615235/)'s paper on multi-view clustering is accepted to AAAI 26. 
 - Aug 2025: Vibe coded an ARC DP analysis website [ARC DP Analysis](https://ht-timchen.github.io/arc-discovery-analysis/)
 - Apr 2025: Will serve as an AC (Health) for CHI 2026 
