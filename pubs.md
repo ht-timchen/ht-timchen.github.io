@@ -10,7 +10,7 @@ title: "Publications"
 </colgroup>
 <tbody>
 <tr>
-<td><img src="/assets/img/2025_CVPR_Ordinal.png" width="250"></td><td markdown="span">**CLOC: Contrastive Learning for Ordinal Classification with Multi-Margin N-pair Loss**<br><br>Dileepa Pitawela, Gustavo Carneiro, **Tim Chen**<br>*CVPR* 2025<br>[paper]   </td>
+<td><img src="/assets/img/2025_CVPR_Ordinal.png" width="250"></td><td markdown="span">**CLOC: Contrastive Learning for Ordinal Classification with Multi-Margin N-pair Loss**<br><br>Dileepa Pitawela, Gustavo Carneiro, **Tim Chen**<br>*CVPR* 2025<br><a href="/assets/publications/2025_CVPR_CLOC.pdf" target="_blank">[paper]</a>   </td>
 </tr>
 <tr>
 <td><img src="/assets/img/2025_CHI_LM.jpg" width="250"></td><td markdown="span">**A Longitudinal Study on The Effects of Circadian Fatigue on Sound Source Identification and Localization using Heads-Up Displays**<br><br>Alexander G. Minton, Howe Yuan Zhu, **Tim Chen**, Yu-Kai Wang, Zhuoli Zhuang, Gina Notaro, Raquel Galvan, James Allen, Matthias D. Ziegler, Chin-Teng Lin<br>*CHI* 2025<br><a href="/assets/publications/2025_CHI_fatigue.pdf" target="_blank">[paper]</a>  <a href="https://youtu.be/aXunoZZKcs4" target="_blank">[youtube]</a></td>
