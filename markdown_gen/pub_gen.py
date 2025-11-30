@@ -84,16 +84,19 @@ def sort_tags(all_tags, priority_tags):
     return priority_found + remaining_tags
 
 def create_color_mapping(tags, color_palette):
-    """Create color mapping for all tags."""
+    """Create color mapping for all tags based on their order."""
     tag_colors = {}
     # Assign specific color to Medical tag
     medical_color = '#C8E6D4'  # Pantone 7470 C – soft mint (medical/health green)
     
-    for tag in tags:
+    # Assign colors based on tag order in the list
+    for index, tag in enumerate(tags):
         if tag == 'Medical':
             tag_colors[tag] = medical_color
         else:
-            tag_colors[tag] = get_tag_color(tag, color_palette)
+            # Use modulo to cycle through colors if there are more tags than colors
+            color_index = index % len(color_palette)
+            tag_colors[tag] = color_palette[color_index]
     
     return tag_colors
 
@@ -124,20 +127,31 @@ def generate_tag_filter_ui(all_tags, tag_colors):
 def generate_css():
     """Generate CSS styles for tags and filtering."""
     return '''<style>
+.tag-filter-btn {
+  transition: all 0.2s ease;
+  position: relative;
+}
+
 .tag-filter-btn.active {
   opacity: 1 !important;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.2) !important;
-  transform: scale(1.05);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.3) !important;
+  transform: scale(1.08) !important;
+  border-width: 2px !important;
+  border-color: #333 !important;
+  font-weight: 600 !important;
 }
 
 .tag-filter-btn:not(.active) {
   opacity: 0.7;
 }
 
-.tag-filter-btn:hover {
+.tag-filter-btn:hover:not(.active) {
   opacity: 1 !important;
   transform: scale(1.05);
-  transition: all 0.2s ease;
+}
+
+.tag-filter-btn:hover.active {
+  transform: scale(1.1) !important;
 }
 
 .paper-tag {
@@ -213,6 +227,20 @@ def generate_javascript():
   var clearFilterBtn = document.getElementById('clear-filter-btn');
   var paperRows = document.querySelectorAll('.paper-row');
   
+  function syncButtonStates() {
+    // Sync button active states with selectedTags Set
+    tagButtons.forEach(function(btn) {
+      var tag = btn.getAttribute('data-tag');
+      if (selectedTags.has(tag)) {
+        btn.classList.add('active');
+      } else {
+        btn.classList.remove('active');
+      }
+    });
+    // Debug: log selected tags
+    console.log('Selected tags:', Array.from(selectedTags));
+  }
+  
   function filterPapers() {
     if (selectedTags.size === 0) {
       paperRows.forEach(function(row) {
@@ -239,27 +267,31 @@ def generate_javascript():
     }
   }
   
+  // Initialize: ensure no buttons are active initially
+  syncButtonStates();
+  
   tagButtons.forEach(function(btn) {
-    btn.addEventListener('click', function() {
-      var tag = this.getAttribute('data-tag');
+    btn.addEventListener('click', function(e) {
+      e.preventDefault();
+      e.stopPropagation();
+      var tag = btn.getAttribute('data-tag');
       
-      if (this.classList.contains('active')) {
-        this.classList.remove('active');
+      // Toggle tag in Set
+      if (selectedTags.has(tag)) {
         selectedTags.delete(tag);
       } else {
-        this.classList.add('active');
         selectedTags.add(tag);
       }
       
+      // Always sync ALL button states after any change
+      syncButtonStates();
       filterPapers();
     });
   });
   
   clearFilterBtn.addEventListener('click', function() {
     selectedTags.clear();
-    tagButtons.forEach(function(btn) {
-      btn.classList.remove('active');
-    });
+    syncButtonStates();
     filterPapers();
   });
 })();
