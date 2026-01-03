@@ -11,6 +11,7 @@ My research mission is to **augment human capabilities by engineering human-cent
 In my limited free time, I enjoy vibe coding for fun. For example, creating the [ARC Funding Analysis](https://ht-timchen.github.io/arc-discovery-analysis/) website.
 
 ### Recent activities
+- Jan 2026: Serve as the short form chair for the first [ACM Interactive Health](https://ih.acm.org/) conference. Look forward to seeing your works here!
 - Dec 2025: Haiyi's paper on object-aware 3DGS is conditionally accepted to [Eurographics 2026](https://eg2026.github.io/)!
 - Dec 2025: [Carlos](https://www.sydney.edu.au/architecture/about/our-people/academic-staff/carlos-tiradocortes.html)' paper on Kinematic Sickness is conditionally accepted to [IEEE VR 2026](https://ieeevr.org/2026/)!
 - Nov 2025: Gave a talk on health HCI for [SIGCHI Paris Chapter](https://paris.sigchi.acm.org/) at [IRIS](https://www.isir.upmc.fr/?lang=en).
