@@ -13,7 +13,7 @@ In my limited free time, I enjoy vibe coding for fun. For example, creating the 
 ### Recent activities
 - Jan 2026: Serve as the short form chair for the first [ACM Interactive Health](https://ih.acm.org/) conference. Look forward to seeing your works here!
 - Dec 2025: Haiyi's paper on object-aware 3DGS is conditionally accepted to [Eurographics 2026](https://eg2026.github.io/)!
-- Dec 2025: [Carlos](https://www.sydney.edu.au/architecture/about/our-people/academic-staff/carlos-tiradocortes.html)' paper on Kinematic Sickness is conditionally accepted to [IEEE VR 2026](https://ieeevr.org/2026/)!
+- Dec 2025: [Carlos](https://www.sydney.edu.au/architecture/about/our-people/academic-staff/carlos-tiradocortes.html)' paper on Kinematic Sickness is conditionally accepted to [IEEE VR 2026](https://ieeevr.org/2026/) as a TVCG journal paper!
 - Nov 2025: Gave a talk on health HCI for [SIGCHI Paris Chapter](https://paris.sigchi.acm.org/) at [IRIS](https://www.isir.upmc.fr/?lang=en).
 - Nov 2025: Gave two talks for [INUIT](https://labsticc.fr/en/teams/inuit) and [DSD](https://www.imt-atlantique.fr/fr/l-ecole/departements-d-enseignement-recherche/data-science) at [IMT Atlantique](www.imt-atlantique.fr) about human-AI collaboration. 
 - Nov 2025: [Jie](https://www.linkedin.com/in/jie-yang-b42615235/)'s paper on multi-view clustering is accepted to AAAI 26. 
