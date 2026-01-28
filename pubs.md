@@ -70,6 +70,21 @@ title: "Publications"
 </colgroup>
 <tbody>
 <tr class="paper-row" data-tags="AI Medical">
+<td><img src="/assets/img/2026_ISBI_L2D.jpg" width="250"></td><td markdown="span">**Understanding Annotation Error Propagation and Learning an Adaptive Policy for Expert Intervention in Barrett's Video Segmentation**<br><br>Lokesha Rasanjalee, Dileepa Pitawela, Jin Tan, Rajvinder Singh, **Tim Chen**<br>*International Symposium on Biomedical Imaging (ISBI)* 2026<br><a href="/assets/publications/2026_ISBI_L2D.pdf" target="_blank">[paper]</a>   <br><br><span class="paper-tag" style="background-color: #F2D4D7; border: 1px solid #F2D4D7;">AI</span><span class="paper-tag" style="background-color: #C8E6D4; border: 1px solid #C8E6D4;">Medical</span></td>
+</tr>
+<tr class="paper-row" data-tags="Graphics XR">
+<td><img src="/assets/img/2026_EG_OUGS.jpg" width="250"></td><td markdown="span">**OUGS: Active View Selection via Object-aware Uncertainty Estimation in 3DGS**<br><br>Haiyi Li, Qi Chen, Denis Kalkofe, **Tim Chen**<br>*Eurographics* 2026<br>[paper]   <br><br><span class="paper-tag" style="background-color: #E6D4E8; border: 1px solid #E6D4E8;">Graphics</span><span class="paper-tag" style="background-color: #F5E6A3; border: 1px solid #F5E6A3;">XR</span></td>
+</tr>
+<tr class="paper-row" data-tags="XR">
+<td><img src="/assets/img/2026_TVCG_Cybersickness.jpg" width="250"></td><td markdown="span">**Kinematic Sickness: Understanding Cybersickness Through Body Kinematics**<br><br>Carlos Tirado Cortes, Yiheng Chi, Juno Kim, **Tim Chen**<br>*Transaction on Visualisation and Computer Graphics (IEEE VR)* 2026<br><a href="/assets/publications/2026_TVCG_Cybersickness.pdf" target="_blank">[paper]</a>   <br><br><span class="paper-tag" style="background-color: #F5E6A3; border: 1px solid #F5E6A3;">XR</span></td>
+</tr>
+<tr class="paper-row" data-tags="AI">
+<td><img src="/assets/img/2025_Access_L2CU.jpg" width="250"></td><td markdown="span">**L2CU: Learning to Complement Unseen Users**<br><br>Dileepa Pitawela, Gustavo Carneiro, **Tim Chen**<br>*IEEE Access* 2026<br><a href="/assets/publications/2025_Access_L2CU.pdf" target="_blank">[paper]</a>   <br><br><span class="paper-tag" style="background-color: #F2D4D7; border: 1px solid #F2D4D7;">AI</span></td>
+</tr>
+<tr class="paper-row" data-tags="AI">
+<td><img src="/assets/img/2025_DICTA_L2D.jpg" width="250"></td><td markdown="span">**Learning To Defer To A Population With Limited Demonstrations**<br><br>Nilesh Ramgolam, Gustavo Carneiro, **Tim Chen**<br>*DICTA* 2025<br><a href="/assets/publications/2025_DICTA_L2D.pdf" target="_blank">[paper]</a>   <br><br><span class="paper-tag" style="background-color: #F2D4D7; border: 1px solid #F2D4D7;">AI</span></td>
+</tr>
+<tr class="paper-row" data-tags="AI Medical">
 <td><img src="/assets/img/2025_CVPR_Ordinal.png" width="250"></td><td markdown="span">**CLOC: Contrastive Learning for Ordinal Classification with Multi-Margin N-pair Loss**<br><br>Dileepa Pitawela, Gustavo Carneiro, **Tim Chen**<br>*CVPR* 2025<br><a href="/assets/publications/2025_CVPR_CLOC.pdf" target="_blank">[paper]</a>   <br><br><span class="paper-tag" style="background-color: #F2D4D7; border: 1px solid #F2D4D7;">AI</span><span class="paper-tag" style="background-color: #C8E6D4; border: 1px solid #C8E6D4;">Medical</span></td>
 </tr>
 <tr class="paper-row" data-tags="XR">
@@ -232,10 +247,12 @@ title: "Publications"
       e.stopPropagation();
       var tag = btn.getAttribute('data-tag');
       
-      // Toggle tag in Set
+      // If the clicked tag is already selected, clear all filters
       if (selectedTags.has(tag)) {
-        selectedTags.delete(tag);
+        selectedTags.clear();
       } else {
+        // Clear all selected tags first, then select the clicked tag
+        selectedTags.clear();
         selectedTags.add(tag);
       }
       

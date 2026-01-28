@@ -7,11 +7,15 @@ author_profile: true
 ## University of Adelaide (2020~)
 ---
 ### Current
+- **Human-Computer Interaction (2026)**
+	- *course designer and lecturer*
+	- introductory HCI course for Human-Center Computing major students
+
+### Previous
+
 - **Foundation of Computer Science A&B (2023~Now)**
 	- *course designer and lecturer*
 	- introductory computer science and programming course for Master of Computaitonal Innovation students
-
-### Previous
 - **Introduction to Computer System, Network, and Security (2020~2023)**
 	- *course designer and lecturer*
 	- introductory computer science course for Bachelor of IT students

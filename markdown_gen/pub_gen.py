@@ -276,10 +276,12 @@ def generate_javascript():
       e.stopPropagation();
       var tag = btn.getAttribute('data-tag');
       
-      // Toggle tag in Set
+      // If the clicked tag is already selected, clear all filters
       if (selectedTags.has(tag)) {
-        selectedTags.delete(tag);
+        selectedTags.clear();
       } else {
+        // Clear all selected tags first, then select the clicked tag
+        selectedTags.clear();
         selectedTags.add(tag);
       }
       
