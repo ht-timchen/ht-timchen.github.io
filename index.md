@@ -10,8 +10,10 @@ My research mission is to **augment human capabilities by engineering human-cent
 
 In my limited free time, I enjoy vibe coding for fun. For example, creating the [ARC Funding Analysis](https://ht-timchen.github.io/arc-discovery-analysis/) website.
 
-### Recent activities
-- Jan 2026: A series of works on **learning to defer** were accepted. Lokesha will present one at [ISBI](https://biomedicalimaging.org/2026/)!
+<h3 class="recent-activities">Recent activities</h3>
+- Feb 2026: I will serve as the paper chair for the OzCHI 2026 at Adelaide.
+- Feb 2026: Haiyi's paper on using local LLM for endo report extraction was accepted as a CHI 2026 poster!
+- Jan 2026: A series of works on **learning to defer** were accepted. Lokesha's paper was also selected for oral presentation at [ISBI](https://biomedicalimaging.org/2026/)!
 - Jan 2026: Serve as the short form chair for the first [ACM Interactive Health](https://ih.acm.org/) conference. Look forward to seeing your works here!
 - Dec 2025: Haiyi's paper on object-aware 3DGS is conditionally accepted to [Eurographics 2026](https://eg2026.github.io/)!
 - Dec 2025: [Carlos](https://www.sydney.edu.au/architecture/about/our-people/academic-staff/carlos-tiradocortes.html)' paper on Kinematic Sickness is conditionally accepted to [IEEE VR 2026](https://ieeevr.org/2026/) as a TVCG journal paper!
@@ -25,3 +27,15 @@ In my limited free time, I enjoy vibe coding for fun. For example, creating the 
 - Feb 2025: Will serve on the jury committee for SIGGRAPH 2025 posters
 - Jan 2025: 2 papers about learning and training in VR were accepted to CHI 2025
 - Dec 2024: The IMAGENDO team was awared an NHMRC idea project (10% success rate, ~$2M)!
+
+<script>
+(function() {
+  document.querySelectorAll('h3.recent-activities + ul li').forEach(function(li) {
+    var html = li.innerHTML;
+    var idx = html.indexOf(': ');
+    if (idx !== -1) {
+      li.innerHTML = '<span class="activity-date">' + html.substring(0, idx) + '</span>: ' + html.substring(idx + 2);
+    }
+  });
+})();
+</script>

@@ -1,0 +1,50 @@
+/* Recent activities section – matches site theme (University Navy, Tech Slate, Interaction Gold, Clean Canvas) */
+
+h3.recent-activities {
+  margin-top: 2.5rem;
+  padding-top: 0.5rem;
+  color: #060B43;
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid #E2B007;
+}
+
+h3.recent-activities + ul {
+  list-style: none;
+  padding-left: 0;
+  margin-bottom: 0;
+}
+
+h3.recent-activities + ul li {
+  position: relative;
+  padding-left: 1.25rem;
+  margin-bottom: 0.1rem;
+  line-height: 1.55;
+  color: #4A5568;
+}
+
+h3.recent-activities + ul li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.5rem;
+  width: 4px;
+  height: 1rem;
+  background: #E2B007;
+  border-radius: 2px;
+}
+
+h3.recent-activities + ul li a {
+  color: #2563EB;
+}
+
+h3.recent-activities + ul li a:hover {
+  color: #E2B007;
+}
+
+/* Date (e.g. "Feb 2026") at the start of each activity */
+.activity-date {
+  color: #060B43;
+  font-weight: 700;
+}
