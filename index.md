@@ -11,6 +11,7 @@ My research mission is to **augment human capabilities by engineering human-cent
 In my limited free time, I enjoy vibe coding for fun. For example, creating the [ARC Funding Analysis](https://ht-timchen.github.io/arc-discovery-analysis/) website.
 
 <h3 class="recent-activities">Recent activities</h3>
+- Mar 2026: Added an [ARC funding lead CI citation analysis](https://ht-timchen.github.io/arc-discovery-analysis/lead_ci_citations_visualization.html) into my [ARC Funding Analysis](https://ht-timchen.github.io/arc-discovery-analysis/) website.
 - Feb 2026: I will serve as the paper chair for the OzCHI 2026 at Adelaide.
 - Feb 2026: Haiyi's paper on using local LLM for endo report extraction was accepted as a CHI 2026 poster!
 - Jan 2026: A series of works on **learning to defer** were accepted. Lokesha's paper was also selected for oral presentation at [ISBI](https://biomedicalimaging.org/2026/)!
