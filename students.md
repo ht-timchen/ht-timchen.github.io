@@ -19,11 +19,14 @@ author_profile: true
 
 ## Alumnai (Degree, Current)
 ---
-- [Nilesh Ramgolam](https://www.linkedin.com/in/nilesh-ramgolam-9712941a1/) (MPhil 2025)
+- Haiyi Li (UG Intern, MSc in Computational Science and Engineer, Harvard)
+- Yiheng Chi (UG Intern, MSc in Mathematical Sciences, Oxford)
+- Yutong Li (UG Intern, Data Science in Health, UCLA)
+- [Nilesh Ramgolam](https://www.linkedin.com/in/nilesh-ramgolam-9712941a1/) (MPhil 2025, PhD Adelaide Uni)
 - Alexander Minton (PhD 2025, SAE)
 - Liuyue (William) Jiang (PhD 2025, DDDI)
 - Songjia Shen (PhD 2025, Singapore Institute of Technology Researcher)
-- Renjie Wu (MPhil 2024, ANU PhD)
+- Renjie Wu (MPhil 2024, PhD ANU)
 - [Ruoxi Sun](https://scholar.google.com/citations?user=Ei4jdwQAAAAJ&hl=en) (PhD 2023, Researcher at CSIRO Data 61)
 - Xiaofei Wang (PhD 2022, Research Engineer at USyd)
 - [Howe Zhu](https://www.linkedin.com/in/howe-yuan-zhu/) (PhD 2021, Lecturer at USyd)
