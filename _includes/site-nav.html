@@ -1,18 +1,14 @@
 <header class="site-header" role="banner">
   <div class="site-header__inner">
-    {%- if site.title-img -%}
-      <a class="site-brand" href="{{ '' | relative_url }}">
-        <img src="{{ site.title-img | relative_url }}" alt="{{ site.title | escape }}" width="120" height="40" loading="eager" />
-      </a>
-    {%- elsif site.title -%}
-      <a class="site-brand" href="{{ '' | relative_url }}">{{ site.title }}</a>
-    {%- endif -%}
-
-    <button type="button" class="site-nav__toggle" aria-expanded="false" aria-controls="site-nav-panel" aria-label="Open menu">
-      <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" aria-hidden="true">
-        <path stroke-linecap="round" stroke-linejoin="round" d="M4 6h16M4 12h16M4 18h16" />
-      </svg>
-    </button>
+    <div class="site-header__brand">
+      {%- if site.title-img -%}
+        <a class="site-brand" href="{{ '' | relative_url }}">
+          <img src="{{ site.title-img | relative_url }}" alt="{{ site.title | escape }}" width="160" height="48" decoding="async" loading="eager" />
+        </a>
+      {%- elsif site.title -%}
+        <a class="site-brand site-brand--text" href="{{ '' | relative_url }}">{{ site.title }}</a>
+      {%- endif -%}
+    </div>
 
     <nav class="site-nav" aria-label="Primary">
       <div id="site-nav-panel" class="site-nav__panel">
@@ -37,12 +33,19 @@
       </div>
     </nav>
 
-    {% if site.avatar and page.show-avatar != false %}
-    <div class="site-avatar">
-      <a href="{{ '' | relative_url }}">
-        <img src="{{ site.avatar | relative_url }}" alt="" width="40" height="40" loading="lazy" decoding="async" />
-      </a>
+    <div class="site-header__actions">
+      <button type="button" class="site-nav__toggle" aria-expanded="false" aria-controls="site-nav-panel" aria-label="Open menu">
+        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" aria-hidden="true">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M4 6h16M4 12h16M4 18h16" />
+        </svg>
+      </button>
+      {% if site.avatar and page.show-avatar != false %}
+      <div class="site-avatar">
+        <a href="{{ '' | relative_url }}">
+          <img src="{{ site.avatar | relative_url }}" alt="" width="72" height="72" loading="lazy" decoding="async" />
+        </a>
+      </div>
+      {% endif %}
     </div>
-    {% endif %}
   </div>
 </header>
