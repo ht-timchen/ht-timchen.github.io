@@ -1,0 +1,16 @@
+---
+layout: base
+---
+
+{% include header.html type="page" %}
+
+<div class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}" role="main">
+  <div class="row">
+    <div class="{% if page.full-width %} col {% else %} col-xl-10 col-lg-10 offset-lg-1 {% endif %}">
+      <div class="bento-page bento-page--home">
+        {{ content }}
+      </div>
+      {% include comments.html %}
+    </div>
+  </div>
+</div>

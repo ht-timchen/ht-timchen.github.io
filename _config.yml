@@ -210,12 +210,19 @@ defaults:
       layout: "post"
       comments: true  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
+      bento: true
   -
     scope:
       path: "" # any file that's not a post will be a "page" layout by default
     values:
       layout: "page"
+      bento: true
       # full-width: true
+  -
+    scope:
+      path: "pubs.md"
+    values:
+      bento: false
 
 # Exclude these files from production site
 exclude:

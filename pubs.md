@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Publications"
+bento: false
 ---
 
 <div id="tag-filter-container" style="margin-bottom: 30px;">

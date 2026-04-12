@@ -13,7 +13,15 @@ layout: base
     </div>
   {% endif %}
 
+  {% if page.bento != false %}
+  <div class="bento-page">
+    <div class="bento-card bento-prose bento-card--404">
+  {% endif %}
   {{ content }}
+  {% if page.bento != false %}
+    </div>
+  </div>
+  {% endif %}
 
   {% if page.after-content %}
     <div class="after-content">

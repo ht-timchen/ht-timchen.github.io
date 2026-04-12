@@ -48,3 +48,110 @@ h3.recent-activities + ul li a:hover {
   color: #060B43;
   font-weight: 700;
 }
+
+/* --- Bento layout (scoped; pubs uses bento: false) --- */
+:root {
+  --bento-navy: #060b43;
+  --bento-slate: #4a5568;
+  --bento-gold: #e2b007;
+  --bento-blue: #2563eb;
+  --bento-canvas: #f7fafc;
+  --bento-card-bg: #ffffff;
+  --bento-radius: 16px;
+  --bento-shadow: 0 1px 3px rgba(6, 11, 67, 0.08), 0 8px 24px rgba(6, 11, 67, 0.06);
+}
+
+.bento-page {
+  padding-bottom: 2.5rem;
+}
+
+.bento-card {
+  background: var(--bento-card-bg);
+  border-radius: var(--bento-radius);
+  box-shadow: var(--bento-shadow);
+  border: 1px solid rgba(74, 85, 104, 0.12);
+  padding: 1.35rem 1.5rem;
+}
+
+.bento-prose {
+  color: var(--bento-slate);
+}
+
+.bento-prose a {
+  color: var(--bento-blue);
+}
+
+.bento-prose a:hover {
+  color: var(--bento-gold);
+}
+
+.bento-prose .blog-post,
+.bento-prose .blog-post p,
+.bento-prose p {
+  line-height: 1.65;
+}
+
+.bento-card--404 {
+  text-align: center;
+  max-width: 42rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Home bento grid */
+.bento-page--home {
+  padding-top: 0.25rem;
+}
+
+.bento-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+}
+
+@media (min-width: 768px) {
+  .bento-grid {
+    grid-template-columns: repeat(12, 1fr);
+    gap: 1.15rem;
+    align-items: stretch;
+  }
+
+  .bento-cell--md-5 {
+    grid-column: span 5;
+  }
+
+  .bento-cell--md-7 {
+    grid-column: span 7;
+  }
+
+  .bento-cell--md-12 {
+    grid-column: span 12;
+  }
+}
+
+/* Home tiles: section carries both .bento-cell and .bento-card */
+.bento-grid > .bento-cell {
+  box-sizing: border-box;
+  min-height: 0;
+}
+
+.bento-card--mission {
+  border-top: 3px solid var(--bento-gold);
+  background: linear-gradient(165deg, #ffffff 0%, #f8fafc 100%);
+}
+
+.bento-card--side {
+  border-left: 4px solid var(--bento-blue);
+  background: #fbfcfe;
+}
+
+.bento-card--activities h3.recent-activities {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+/* Inner pages: comfortable reading width inside card */
+main[role="main"] .bento-prose img {
+  max-width: 100%;
+  height: auto;
+}

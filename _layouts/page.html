@@ -7,6 +7,10 @@ layout: base
 <div class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}" role="main">
   <div class="row">
     <div class="{% if page.full-width %} col {% else %} col-xl-10 col-lg-10 offset-lg-1 {% endif %}">
+      {% if page.bento != false %}
+      <div class="bento-page">
+        <div class="bento-card bento-prose">
+      {% endif %}
       {% if page.before-content %}
         <div class="before-content">
           {% for file in page.before-content %}
@@ -26,6 +30,10 @@ layout: base
       {% endif %}
 
       {% include comments.html %}
+      {% if page.bento != false %}
+        </div>
+      </div>
+      {% endif %}
     </div>
   </div>
 </div>

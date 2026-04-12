@@ -39,6 +39,11 @@ layout: base
         </div>
       {% endif %}
 
+      {% if page.bento != false %}
+      <div class="bento-page">
+        <div class="bento-card bento-prose">
+      {% endif %}
+
       <article role="main" class="blog-post">
         {{ content }}
       </article>
@@ -77,6 +82,10 @@ layout: base
         {% endif %}
       </ul>
       {% include comments.html %}
+      {% if page.bento != false %}
+        </div>
+      </div>
+      {% endif %}
     </div>
   </div>
 </div>
