@@ -1,0 +1,317 @@
+/* Publications — bento card layout and tag filters */
+
+.pubs-page {
+  max-width: 100%;
+}
+
+.pub-filter-card__intro {
+  margin-bottom: 0;
+}
+
+.pub-filter-card__label {
+  margin-bottom: 0.75rem;
+}
+
+.pub-filter-card__buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 0.5rem;
+  align-items: center;
+  margin-bottom: 0;
+}
+
+#tag-buttons .tag-filter-btn {
+  margin: 0;
+  padding: 0.45rem 0.9rem;
+  border: 1px solid transparent;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: var(--text-sm, 0.875rem);
+  color: var(--color-slate, #334155);
+  transition: box-shadow 0.15s ease, transform 0.12s ease, background-color 0.15s ease;
+}
+
+#tag-buttons .tag-filter-btn:hover {
+  box-shadow: 0 2px 8px rgba(30, 27, 75, 0.12);
+  transform: scale(1.04);
+}
+
+#tag-buttons .tag-filter-btn.active {
+  box-shadow: 0 0 0 2px var(--bento-navy, #1e1b4b);
+  font-weight: 600;
+}
+
+.tag-filter-btn[data-tag="AI"] {
+  border-color: #e0d4e8;
+  background-color: #f3eef8;
+}
+
+.tag-filter-btn[data-tag="Medical"] {
+  border-color: #c8d8e8;
+  background-color: #e8f0f8;
+}
+
+.tag-filter-btn[data-tag="XR"] {
+  border-color: #d8d0e4;
+  background-color: #eeeaf5;
+}
+
+.tag-filter-btn[data-tag="BCI"] {
+  border-color: #c4d4e4;
+  background-color: #e4ecf5;
+}
+
+.tag-filter-btn[data-tag="Fabrication"] {
+  border-color: #d4d0e8;
+  background-color: #edebf5;
+}
+
+.tag-filter-btn[data-tag="Graphics"] {
+  border-color: #ddd0e0;
+  background-color: #f2ecf4;
+}
+
+.pub-filter-clear-btn {
+  margin: 0;
+  padding: 0.45rem 0.9rem;
+  border: 1px solid rgba(30, 27, 75, 0.12);
+  background-color: #edeaf5;
+  color: var(--color-slate, #334155);
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: var(--text-sm, 0.875rem);
+}
+
+.pub-filter-clear-btn:hover {
+  background-color: #e2dff0;
+}
+
+/* Single-column stack of publication cards */
+.pubs-bento-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.15rem;
+  width: 100%;
+}
+
+.pub-bento-card {
+  background: var(--bento-card-bg, #ffffff);
+  border-radius: var(--bento-radius, 16px);
+  box-shadow: var(
+    --bento-shadow,
+    0 1px 3px rgba(30, 27, 75, 0.06),
+    0 8px 24px rgba(30, 27, 75, 0.06)
+  );
+  border: 1px solid rgba(30, 27, 75, 0.08);
+  overflow: visible;
+  min-width: 0;
+  transition: transform 0.18s ease, box-shadow 0.18s ease;
+}
+
+.pub-bento-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 30px rgba(30, 27, 75, 0.10);
+}
+
+.pub-bento-card.hidden {
+  display: none;
+}
+
+.pub-bento-card__inner {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  gap: 1rem;
+  height: 100%;
+  padding: 1rem 1.15rem;
+  box-sizing: border-box;
+}
+
+@media (min-width: 480px) {
+  .pub-bento-card__inner {
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 1.15rem;
+    padding: 1.1rem 1.2rem;
+  }
+}
+
+/* Thumbnail + topic tags stacked in one column */
+.pub-bento-card__aside {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.75rem;
+  flex-shrink: 0;
+  width: 100%;
+  max-width: 280px;
+  margin: 0 auto;
+}
+
+@media (min-width: 480px) {
+  .pub-bento-card__aside {
+    width: 140px;
+    max-width: none;
+    margin: 0;
+    align-items: stretch;
+  }
+}
+
+@media (min-width: 640px) {
+  .pub-bento-card__aside {
+    width: 180px;
+  }
+}
+
+.pub-bento-card__thumb {
+  flex-shrink: 0;
+  width: 100%;
+  max-width: 250px;
+  border-radius: 10px;
+  overflow: hidden;
+  background: rgba(30, 27, 75, 0.03);
+}
+
+.pub-bento-card__thumb img {
+  display: block;
+  width: 100%;
+  max-width: 250px;
+  height: auto;
+  margin: 0 auto;
+}
+
+@media (min-width: 480px) {
+  .pub-bento-card__thumb {
+    max-width: none;
+    width: 100%;
+  }
+
+  .pub-bento-card__thumb img {
+    max-width: 140px;
+    width: 100%;
+  }
+}
+
+@media (min-width: 640px) {
+  .pub-bento-card__thumb img {
+    max-width: 180px;
+  }
+}
+
+.pub-bento-card__tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 0.5rem;
+  justify-content: center;
+  width: 100%;
+  padding: 0.15rem 0 0;
+  box-sizing: border-box;
+}
+
+@media (min-width: 480px) {
+  .pub-bento-card__tags {
+    justify-content: flex-start;
+  }
+}
+
+.pub-bento-card__text {
+  flex: 1;
+  min-width: 0;
+  padding-top: 0.15rem;
+  color: var(--bento-slate, #334155);
+  font-size: var(--text-base, 1.0625rem);
+  line-height: 1.55;
+}
+
+.pub-bento-card__text p:first-child {
+  margin-top: 0;
+}
+
+.pub-bento-card__text p:last-child {
+  margin-bottom: 0;
+}
+
+.pub-bento-card__text strong {
+  color: var(--bento-navy, #1e1b4b);
+}
+
+.pub-bento-card__text a {
+  color: var(--bento-blue, #6366f1);
+}
+
+.pub-bento-card__text a:hover {
+  color: var(--bento-gold, #8b5cf6);
+}
+
+.paper-tag {
+  display: inline-block;
+  margin: 0;
+  padding: 0.22rem 0.55rem;
+  font-size: var(--text-xs, 0.8125rem);
+  line-height: 1.25;
+  border-radius: 6px;
+  white-space: nowrap;
+}
+
+/* --- Dark mode pubs overrides --- */
+@media (prefers-color-scheme: dark) {
+  .pub-bento-card {
+    border-color: rgba(241, 240, 255, 0.08);
+  }
+
+  .pub-bento-card:hover {
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.35);
+  }
+
+  .pub-bento-card__thumb {
+    background: rgba(255, 255, 255, 0.05);
+  }
+
+  .paper-tag {
+    opacity: 0.85;
+  }
+
+  #tag-buttons .tag-filter-btn {
+    color: var(--color-slate, #cbd5e1);
+  }
+
+  .pub-filter-clear-btn {
+    background-color: #1e1d30;
+    border-color: rgba(241, 240, 255, 0.1);
+    color: var(--color-slate, #cbd5e1);
+  }
+
+  .pub-filter-clear-btn:hover {
+    background-color: #28273d;
+  }
+
+  .tag-filter-btn[data-tag="AI"] {
+    border-color: #302840;
+    background-color: #241e34;
+  }
+
+  .tag-filter-btn[data-tag="Medical"] {
+    border-color: #253040;
+    background-color: #1c2434;
+  }
+
+  .tag-filter-btn[data-tag="XR"] {
+    border-color: #2e2840;
+    background-color: #221e34;
+  }
+
+  .tag-filter-btn[data-tag="BCI"] {
+    border-color: #242e40;
+    background-color: #1a2234;
+  }
+
+  .tag-filter-btn[data-tag="Fabrication"] {
+    border-color: #2a2840;
+    background-color: #201e34;
+  }
+
+  .tag-filter-btn[data-tag="Graphics"] {
+    border-color: #322840;
+    background-color: #261e34;
+  }
+}

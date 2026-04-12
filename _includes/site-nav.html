@@ -26,7 +26,15 @@
                 </ul>
               </li>
             {%- else -%}
-              <li><a href="{{ link[1] | relative_url }}">{{ link[0] }}</a></li>
+              {%- assign link_path = link[1] | relative_url -%}
+              {%- assign is_active = false -%}
+              {%- if page.url == link_path or page.url == link[1] or page.url == link[1] | append: "/" -%}
+                {%- assign is_active = true -%}
+              {%- endif -%}
+              {%- if link[1] == "index" and page.url == "/" -%}
+                {%- assign is_active = true -%}
+              {%- endif -%}
+              <li><a href="{{ link_path }}"{% if is_active %} class="is-active" aria-current="page"{% endif %}>{{ link[0] }}</a></li>
             {%- endif -%}
           {%- endfor -%}
         </ul>

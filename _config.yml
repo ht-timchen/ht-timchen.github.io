@@ -100,16 +100,16 @@ feed_show_tags: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F7FAFC"
-navbar-text-col: "#060B43"
-navbar-border-col: "#4A5568"
-page-col: "#F7FAFC"
-text-col: "#4A5568"
-link-col: "#2563EB"
-hover-col: "#E2B007"
-footer-col: "#060B43"
-footer-text-col: "#F7FAFC"
-footer-link-col: "#E2B007"
+navbar-col: "#fafafe"
+navbar-text-col: "#1e1b4b"
+navbar-border-col: "#c7d2fe"
+page-col: "#fafafe"
+text-col: "#334155"
+link-col: "#6366f1"
+hover-col: "#8b5cf6"
+footer-col: "#1e1b4b"
+footer-text-col: "#f1f0ff"
+footer-link-col: "#a78bfa"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
@@ -119,15 +119,16 @@ footer-link-col: "#E2B007"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
-#mobile-theme-col: "#0085A1"
+mobile-theme-col: "#1e1b4b"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
-site-css:
+# (Use site_css not site-css: Liquid parses site.site-css as subtraction and breaks stylesheet loading.)
+site_css:
   - "/assets/css/site.css"
   - "/assets/css/custom-styles.css"
 
 # If you have common JavaScript files that should be included in every page, list them here
-site-js:
+site_js:
   - "/assets/js/site.js"
 
 # --- Web Analytics Section --- #

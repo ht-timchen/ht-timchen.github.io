@@ -19,8 +19,8 @@
   {% endfor %}
 {% endif %}
 
-{% if site.site-js %}
-  {% for js in site.site-js %}
+{% if site.site_js %}
+  {% for js in site.site_js %}
     <script src="{{ js | relative_url }}"></script>
   {% endfor %}
 {% endif %}

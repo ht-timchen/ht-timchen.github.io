@@ -1,13 +1,15 @@
-/* Recent activities section – matches site theme (University Navy, Tech Slate, Interaction Gold, Clean Canvas) */
+/* Recent activities & bento layout */
 
 h3.recent-activities {
   margin-top: 2.5rem;
   padding-top: 0.5rem;
-  color: #060B43;
-  font-size: 1.5rem;
+  color: var(--color-navy);
+  font-family: var(--font-headline);
+  font-size: var(--text-h3);
+  font-weight: 700;
   margin-bottom: 1rem;
   padding-bottom: 0.5rem;
-  border-bottom: 2px solid #E2B007;
+  border-bottom: 2px solid var(--color-accent);
 }
 
 h3.recent-activities + ul {
@@ -21,7 +23,7 @@ h3.recent-activities + ul li {
   padding-left: 1.25rem;
   margin-bottom: 0.1rem;
   line-height: 1.55;
-  color: #4A5568;
+  color: var(--color-slate);
 }
 
 h3.recent-activities + ul li::before {
@@ -31,37 +33,40 @@ h3.recent-activities + ul li::before {
   top: 0.5rem;
   width: 4px;
   height: 1rem;
-  background: #E2B007;
+  background: var(--color-accent);
   border-radius: 2px;
 }
 
 h3.recent-activities + ul li a {
-  color: #2563EB;
+  color: var(--color-blue);
 }
 
 h3.recent-activities + ul li a:hover {
-  color: #E2B007;
+  color: var(--color-purple);
 }
 
 /* Date (e.g. "Feb 2026") at the start of each activity */
 .activity-date {
-  color: #060B43;
+  color: var(--color-navy);
   font-weight: 700;
 }
 
-/* --- Bento layout (scoped; pubs uses bento: false) --- */
+/* --- Bento layout (home/teaching/students; pubs uses skip_outer_bento + pubs-bento.css) --- */
 :root {
-  --bento-navy: #060b43;
-  --bento-slate: #4a5568;
-  --bento-gold: #e2b007;
-  --bento-blue: #2563eb;
-  --bento-canvas: #f7fafc;
-  --bento-card-bg: #ffffff;
+  --bento-navy: var(--color-navy);
+  --bento-slate: var(--color-slate);
+  /* Accent for hovers (replaces legacy “gold” token): North Terrace Purple */
+  --bento-gold: var(--color-accent-hover);
+  --bento-blue: var(--color-accent);
+  --bento-canvas: var(--color-canvas);
+  --bento-card-bg: var(--color-surface);
   --bento-radius: 16px;
-  --bento-shadow: 0 1px 3px rgba(6, 11, 67, 0.08), 0 8px 24px rgba(6, 11, 67, 0.06);
+  --bento-shadow: 0 1px 3px rgba(30, 27, 75, 0.06), 0 8px 24px rgba(30, 27, 75, 0.06);
 }
 
 .bento-page {
+  /* Space below fixed header — match across home and inner bento pages */
+  padding-top: 0.75rem;
   padding-bottom: 2.5rem;
 }
 
@@ -69,12 +74,39 @@ h3.recent-activities + ul li a:hover {
   background: var(--bento-card-bg);
   border-radius: var(--bento-radius);
   box-shadow: var(--bento-shadow);
-  border: 1px solid rgba(74, 85, 104, 0.12);
-  padding: 1.35rem 1.5rem;
+  border: 1px solid rgba(30, 27, 75, 0.08);
+  padding: 0.90rem 1.1rem;
+  transition: transform 0.18s ease, box-shadow 0.18s ease;
+}
+
+.bento-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 30px rgba(30, 27, 75, 0.10);
 }
 
 .bento-prose {
+  font-size: var(--text-base);
   color: var(--bento-slate);
+}
+
+/* Teaching / long-form cards: list rhythm under condensed headings */
+.bento-prose > ul {
+  margin-top: 0.35rem;
+  margin-bottom: 0.65rem;
+}
+
+.bento-prose ul ul {
+  margin-top: 0.25rem;
+  margin-bottom: 0.35rem;
+}
+
+.bento-prose > ul > li {
+  margin-bottom: 0.4rem;
+}
+
+.bento-prose h2 {
+  padding-bottom: 0.4rem;
+  border-bottom: 2px solid rgba(99, 102, 241, 0.2);
 }
 
 .bento-prose a {
@@ -88,7 +120,7 @@ h3.recent-activities + ul li a:hover {
 .bento-prose .blog-post,
 .bento-prose .blog-post p,
 .bento-prose p {
-  line-height: 1.65;
+  line-height: 1.7;
 }
 
 .bento-card--404 {
@@ -98,10 +130,7 @@ h3.recent-activities + ul li a:hover {
   margin-right: auto;
 }
 
-/* Home bento grid */
-.bento-page--home {
-  padding-top: 0.25rem;
-}
+/* Home bento grid (top padding from .bento-page) */
 
 /* Stacked bento cards (e.g. Students: current vs alumni) */
 .bento-page--stack {
@@ -112,13 +141,13 @@ h3.recent-activities + ul li a:hover {
 }
 
 .bento-card--alumni {
-  border-top: 3px solid rgba(226, 176, 7, 0.55);
-  background: linear-gradient(180deg, #ffffff 0%, #fafbfc 100%);
+  border-top: 3px solid rgba(139, 92, 246, 0.4);
+  background: linear-gradient(180deg, var(--color-surface) 0%, var(--color-warm-highlight) 100%);
 }
 
 .bento-card--uts {
-  border-left: 4px solid rgba(37, 99, 235, 0.45);
-  background: linear-gradient(90deg, #fbfcfe 0%, #ffffff 40%);
+  border-left: 4px solid rgba(99, 102, 241, 0.35);
+  background: linear-gradient(90deg, rgba(99, 102, 241, 0.04) 0%, var(--color-surface) 45%);
 }
 
 .bento-grid {
@@ -165,6 +194,11 @@ h3.recent-activities + ul li a:hover {
   padding: 0;
   overflow: hidden;
   align-self: stretch;
+  border: 2px solid rgba(99, 102, 241, 0.25);
+}
+
+.bento-card--profile:hover {
+  border-color: rgba(99, 102, 241, 0.5);
 }
 
 .bento-profile {
@@ -185,13 +219,13 @@ h3.recent-activities + ul li a:hover {
 }
 
 .bento-card--mission {
-  border-top: 3px solid var(--bento-gold);
-  background: linear-gradient(165deg, #ffffff 0%, #f8fafc 100%);
+  border-top: 3px solid var(--color-accent);
+  background: linear-gradient(165deg, var(--color-surface) 0%, var(--color-warm-highlight) 100%);
 }
 
 .bento-card--side {
-  border-left: 4px solid var(--bento-blue);
-  background: #fbfcfe;
+  border-left: 4px solid var(--color-accent);
+  background: rgba(99, 102, 241, 0.03);
 }
 
 .bento-card--activities h3.recent-activities {
@@ -203,4 +237,96 @@ h3.recent-activities + ul li a:hover {
 main[role="main"] .bento-prose img {
   max-width: 100%;
   height: auto;
+}
+
+/* --- Entrance animations --- */
+@keyframes fadeSlideUp {
+  from {
+    opacity: 0;
+    transform: translateY(18px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.bento-card,
+.pub-bento-card,
+.post-preview {
+  opacity: 0;
+}
+
+.bento-card.is-visible,
+.pub-bento-card.is-visible,
+.post-preview.is-visible {
+  animation: fadeSlideUp 0.5s ease-out forwards;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .bento-card,
+  .pub-bento-card,
+  .post-preview {
+    opacity: 1;
+  }
+  .bento-card.is-visible,
+  .pub-bento-card.is-visible,
+  .post-preview.is-visible {
+    animation: none;
+  }
+}
+
+/* --- Dark mode bento overrides --- */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bento-shadow: 0 1px 3px rgba(0, 0, 0, 0.25), 0 8px 24px rgba(0, 0, 0, 0.25);
+  }
+
+  .bento-card {
+    border-color: rgba(241, 240, 255, 0.08);
+  }
+
+  .bento-card:hover {
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.35);
+  }
+
+  .bento-card--mission {
+    border-top-color: var(--color-accent);
+    background: linear-gradient(165deg, var(--color-surface) 0%, #1a1930 100%);
+  }
+
+  .bento-card--side {
+    border-left-color: var(--color-accent);
+    background: rgba(99, 102, 241, 0.04);
+  }
+
+  .bento-card--alumni {
+    border-top-color: rgba(139, 92, 246, 0.35);
+    background: linear-gradient(180deg, var(--color-surface) 0%, #1c1a30 100%);
+  }
+
+  .bento-card--uts {
+    border-left-color: rgba(99, 102, 241, 0.3);
+    background: linear-gradient(90deg, rgba(99, 102, 241, 0.04) 0%, var(--color-surface) 45%);
+  }
+
+  .bento-card--profile {
+    border-color: rgba(99, 102, 241, 0.2);
+  }
+
+  .bento-card--profile:hover {
+    border-color: rgba(99, 102, 241, 0.4);
+  }
+
+  .bento-prose h2 {
+    border-bottom-color: rgba(99, 102, 241, 0.15);
+  }
+
+  h3.recent-activities {
+    border-bottom-color: var(--color-accent);
+  }
+
+  h3.recent-activities + ul li::before {
+    background: var(--color-accent);
+  }
 }
