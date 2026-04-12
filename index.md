@@ -2,6 +2,7 @@
 layout: home-bento
 title: Hsiang-Ting (Tim) Chen
 subtitle: Adelaide University
+omit_page_hero: true
 ---
 
 <div class="bento-grid">
