@@ -2,6 +2,7 @@
 permalink: /teaching/
 title: "Teaching"
 author_profile: true
+omit_page_hero: true
 ---
 
 ## University of Adelaide (2020~)

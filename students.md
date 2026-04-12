@@ -2,6 +2,7 @@
 permalink: /students/
 title: "Students"
 author_profile: true
+omit_page_hero: true
 ---
 
 ## HDR (Principal Supervisor)
