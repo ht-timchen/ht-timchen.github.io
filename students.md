@@ -3,23 +3,30 @@ permalink: /students/
 title: "Students"
 author_profile: true
 omit_page_hero: true
+skip_outer_bento: true
 ---
+
+<div class="bento-page bento-page--stack">
+<div class="bento-card bento-prose" markdown="1">
 
 ## HDR (Principal Supervisor)
 - Xiaoyan Wei (with [Qi Wu](http://www.qi-wu.me/))
 - [Dileepa Pitawela](https://www.linkedin.com/in/dileepa-pitawela/) (with [Gustavo Carneiro](https://www.surrey.ac.uk/people/gustavo-carneiro))
 - Hanwen Wang (with [Hu Wang](https://huwang01.github.io/))
-- [Vera Lawless](https://www.linkedin.com/in/veralawless/) (with [Matthew Roughan](https://matthew.roughan.info/)) 
+- [Vera Lawless](https://www.linkedin.com/in/veralawless/) (with [Matthew Roughan](https://matthew.roughan.info/))
 - Ni Min (with [Etienne Peillard](https://www.etiennepeillard.com/))
-- Lokesha Rasanjalee (with [Rajvinder Singh](https://researchers.adelaide.edu.au/profile/rajvinder.singh)) 
+- Lokesha Rasanjalee (with [Rajvinder Singh](https://researchers.adelaide.edu.au/profile/rajvinder.singh))
 
 ## HDR (Co-supervisor)
 - [Alison Deslandes](https://www.linkedin.com/in/alison-deslandes-15142452/) (with Louise Hull)
 - Tianxin Li
 - Aditya Pujara
 
-## Alumnai (Degree, Current)
----
+</div>
+
+<div class="bento-card bento-prose bento-card--alumni" markdown="1">
+
+## Alumni (Degree, Current)
 - Haiyi Li (UG Intern, MSc in Computational Science and Engineer, Harvard)
 - Yiheng Chi (UG Intern, MSc in Mathematical Sciences, Oxford)
 - Yutong Li (UG Intern, Data Science in Health, UCLA)
@@ -32,3 +39,6 @@ omit_page_hero: true
 - Xiaofei Wang (PhD 2022, Research Engineer at USyd)
 - [Howe Zhu](https://www.linkedin.com/in/howe-yuan-zhu/) (PhD 2021, Lecturer at USyd)
 - [Carlos Tirado](https://research.unsw.edu.au/people/dr-carlos-tirado-cortes) Cortes (PhD 2021, Lecturer at USyd)
+
+</div>
+</div>

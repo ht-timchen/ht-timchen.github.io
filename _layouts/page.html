@@ -7,8 +7,10 @@ layout: base
 <main class="site-main" role="main">
   <div class="site-main__inner">
     {% if page.bento != false %}
+      {% unless page.skip_outer_bento %}
     <div class="bento-page">
       <div class="bento-card bento-prose">
+      {% endunless %}
     {% endif %}
     {% if page.before-content %}
       <div class="before-content">
@@ -30,8 +32,10 @@ layout: base
 
     {% include comments.html %}
     {% if page.bento != false %}
+      {% unless page.skip_outer_bento %}
       </div>
     </div>
+      {% endunless %}
     {% endif %}
   </div>
 </main>

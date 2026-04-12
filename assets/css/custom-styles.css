@@ -103,6 +103,19 @@ h3.recent-activities + ul li a:hover {
   padding-top: 0.25rem;
 }
 
+/* Stacked bento cards (e.g. Students: current vs alumni) */
+.bento-page--stack {
+  display: flex;
+  flex-direction: column;
+  gap: 1.15rem;
+  width: 100%;
+}
+
+.bento-card--alumni {
+  border-top: 3px solid rgba(226, 176, 7, 0.55);
+  background: linear-gradient(180deg, #ffffff 0%, #fafbfc 100%);
+}
+
 .bento-grid {
   display: grid;
   grid-template-columns: 1fr;
