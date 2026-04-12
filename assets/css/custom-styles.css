@@ -116,6 +116,11 @@ h3.recent-activities + ul li a:hover {
   background: linear-gradient(180deg, #ffffff 0%, #fafbfc 100%);
 }
 
+.bento-card--uts {
+  border-left: 4px solid rgba(37, 99, 235, 0.45);
+  background: linear-gradient(90deg, #fbfcfe 0%, #ffffff 40%);
+}
+
 .bento-grid {
   display: grid;
   grid-template-columns: 1fr;

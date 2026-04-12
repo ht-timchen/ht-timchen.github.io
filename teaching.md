@@ -3,10 +3,13 @@ permalink: /teaching/
 title: "Teaching"
 author_profile: true
 omit_page_hero: true
+skip_outer_bento: true
 ---
 
-## University of Adelaide (2020~)
----
+<div class="bento-page bento-page--stack">
+<div class="bento-card bento-prose" markdown="1">
+
+## Adelaide University (2020~)
 ### Current
 - **Human-Computer Interaction (2026)**
 	- *course designer and lecturer*
@@ -16,7 +19,7 @@ omit_page_hero: true
 
 - **Foundation of Computer Science A&B (2023~Now)**
 	- *course designer and lecturer*
-	- introductory computer science and programming course for Master of Computaitonal Innovation students
+	- introductory computer science and programming course for Master of Computational Innovation students
 - **Introduction to Computer System, Network, and Security (2020~2023)**
 	- *course designer and lecturer*
 	- introductory computer science course for Bachelor of IT students
@@ -30,11 +33,17 @@ omit_page_hero: true
 	- *course designer and lecturer*
 	- introductory year 1 project course
 
+</div>
+
+<div class="bento-card bento-prose bento-card--uts" markdown="1">
+
 ## University of Technology Sydney (2016~2019)
----
 - **Digital Media Studio**
 	- *course designer and instructor*
 	- capstone project for the Bachelor and Master of Interaction Design students
 - **3D Computer Animation**
 	- *course designer and instructor*
 	- creating animation on Unity3D for Bachelor of Game Design students
+
+</div>
+</div>
