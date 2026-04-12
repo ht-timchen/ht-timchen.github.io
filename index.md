@@ -6,11 +6,12 @@ omit_page_hero: true
 ---
 
 <div class="bento-grid">
-  <section class="bento-cell bento-cell--md-7 bento-card" markdown="1">
+{% include home-profile-photo.html %}
+  <section class="bento-cell bento-cell--md-8 bento-card" markdown="1">
 I am a senior lecturer (tenured assistant professor in other systems) at the [School of Computer Science and IT](https://adelaideuni.edu.au/about/school/computer-science-information-technology/), [Adelaide University](https://www.adelaide.edu.au/). Before joining Adelaide, I had the honor of working with [Prof. Patrick Baudisch](https://hpi.de/baudisch/home.html) (HPI), [Prof. Takeo Igarashi](https://www-ui.is.s.u-tokyo.ac.jp/~takeo/) (U of Tokyo), [Prof CT Lin](https://profiles.uts.edu.au/chin-teng.lin) (UTS), and [Dr. Li-Yi Wei](https://www.liyiwei.org) (Adobe Research) across various research fields including Human-Computer Interaction, Computer Graphics, and AI/ML.
   </section>
 
-  <section class="bento-cell bento-cell--md-5 bento-card bento-card--mission" markdown="1">
+  <section class="bento-cell bento-cell--md-12 bento-card bento-card--mission" markdown="1">
 My research mission is to **augment human capabilities by engineering human-centred AI systems**. I pursue this mission by actively exploring emerging technologies to build novel interactive AI systems that empower and collaborate effectively with knowledge workers. This hands-on pursuit has led to my leadership roles in large interdisciplinary teams, including serving as the U of Adelaide research lead for the Augmenting Ability CRC and as the human-AI interface lead for the [Eureka Prize-winning](https://australian.museum/get-involved/eureka-prizes/2023-eureka-prize-winners/), MRFF-funded [IMAGENDO Project](https://imagendo.org.au/).
   </section>
 

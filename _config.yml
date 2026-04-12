@@ -218,6 +218,7 @@ defaults:
     values:
       layout: "page"
       bento: true
+      show-avatar: false
       # full-width: true
   -
     scope:

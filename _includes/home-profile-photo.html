@@ -1,0 +1,14 @@
+{% if site.avatar %}
+<section class="bento-cell bento-cell--md-4 bento-card bento-card--profile">
+  <figure class="bento-profile">
+    <img
+      src="{{ site.avatar | relative_url }}"
+      alt="{% if site.author %}{{ site.author | escape }}{% else %}{{ site.title | escape }}{% endif %}"
+      width="640"
+      height="640"
+      loading="eager"
+      decoding="async"
+    />
+  </figure>
+</section>
+{% endif %}
