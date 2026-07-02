@@ -22,6 +22,7 @@ In my limited free time, I enjoy vibe coding for fun. For example, creating the 
   <section class="bento-cell bento-cell--md-12 bento-card bento-card--activities" markdown="1">
 ### Recent activities
 {: .recent-activities}
+- Jul 2026: Min Ni's paper on AR surface contact perception was accepted to [ISMAR 2026](https://www.ieeeismar.net/2026/)!
 - May 2026: As graduate research coordinator, created the [Adelaide CSIT HDR Seminar Series](https://ht-timchen.github.io/Adelaide-CSIT-GRC/) website to build a strong research identity and sense of belonging among Adelaide HDR students.
 - Mar 2026: Added an [ARC funding lead CI citation analysis](https://ht-timchen.github.io/arc-discovery-analysis/lead_ci_citations_visualization.html) into my [ARC Funding Analysis](https://ht-timchen.github.io/arc-discovery-analysis/) website.
 - Feb 2026: I will serve as the paper chair for the OzCHI 2026 at Adelaide.
