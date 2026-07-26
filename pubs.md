@@ -31,6 +31,24 @@ css:
 <article class="paper-row pub-bento-card" data-tags="AI Medical">
 <div class="pub-bento-card__inner">
 <div class="pub-bento-card__aside">
+<div class="pub-bento-card__thumb"><img src="/assets/img/2026_CHIEA_who_fails_where.png" width="250" alt="" loading="lazy" decoding="async" /></div>
+<div class="pub-bento-card__tags"><span class="paper-tag" style="background-color: #f3eef8; border: 1px solid #e0d4e8;">AI</span><span class="paper-tag" style="background-color: #e8f0f8; border: 1px solid #c8d8e8;">Medical</span></div>
+</div>
+<div class="pub-bento-card__text" markdown="span">**Who Fails Where? LLM and Human Error Patterns in Endometriosis Ultrasound Report Extraction**<br><br>Haiyi Li, Yutong Li, Yiheng Chi, Alison Deslandes, Mathew Leonardi, Shay Freger, Yuan Zhang, Jodie Avery, M Louise Hull, **Tim Chen**<br>*ACM CHI EA* 2026<br><a href="/assets/publications/2026_CHIEA_who fails where.pdf" target="_blank">[paper]</a></div>
+</div>
+</article>
+<article class="paper-row pub-bento-card" data-tags="AI">
+<div class="pub-bento-card__inner">
+<div class="pub-bento-card__aside">
+<div class="pub-bento-card__thumb"><img src="/assets/img/2026_AAAI_Multi-view_clustering.png" width="250" alt="" loading="lazy" decoding="async" /></div>
+<div class="pub-bento-card__tags"><span class="paper-tag" style="background-color: #f3eef8; border: 1px solid #e0d4e8;">AI</span></div>
+</div>
+<div class="pub-bento-card__text" markdown="span">**Multi-View Clustering with Granularity-Aware Pseudo Supervision**<br><br>Jie Yang, Cheng-You Lu, Zhongli Wang, **Tim Chen**, Guang-Kui Xu, Chenglong Zhang, Shuting Dong, Xinyan Liang, Bingbing Jiang<br>*AAAI* 2026<br><a href="/assets/publications/2026_AAAI_Multi-view clustering.pdf" target="_blank">[paper]</a></div>
+</div>
+</article>
+<article class="paper-row pub-bento-card" data-tags="AI Medical">
+<div class="pub-bento-card__inner">
+<div class="pub-bento-card__aside">
 <div class="pub-bento-card__thumb"><img src="/assets/img/2026_ISBI_L2D.jpg" width="250" alt="" loading="lazy" decoding="async" /></div>
 <div class="pub-bento-card__tags"><span class="paper-tag" style="background-color: #f3eef8; border: 1px solid #e0d4e8;">AI</span><span class="paper-tag" style="background-color: #e8f0f8; border: 1px solid #c8d8e8;">Medical</span></div>
 </div>
@@ -53,6 +71,15 @@ css:
 <div class="pub-bento-card__tags"><span class="paper-tag" style="background-color: #eeeaf5; border: 1px solid #d8d0e4;">XR</span></div>
 </div>
 <div class="pub-bento-card__text" markdown="span">**Kinematic Sickness: Understanding Cybersickness Through Body Kinematics**<br><br>Carlos Tirado Cortes, Yiheng Chi, Juno Kim, **Tim Chen**<br>*Transaction on Visualisation and Computer Graphics (IEEE VR)* 2026<br><a href="/assets/publications/2026_TVCG_Cybersickness.pdf" target="_blank">[paper]</a></div>
+</div>
+</article>
+<article class="paper-row pub-bento-card" data-tags="XR">
+<div class="pub-bento-card__inner">
+<div class="pub-bento-card__aside">
+<div class="pub-bento-card__thumb"><img src="/assets/img/2026_TVCG_Surface.png" width="250" alt="" loading="lazy" decoding="async" /></div>
+<div class="pub-bento-card__tags"><span class="paper-tag" style="background-color: #eeeaf5; border: 1px solid #d8d0e4;">XR</span></div>
+</div>
+<div class="pub-bento-card__text" markdown="span">**How Opacity and Background Affect Surface Contact Perception in Optical See-Through AR**<br><br>Min Ni, **Tim Chen**, Gilles Coppin, and Étienne Peillard<br>*Transaction on Visualisation and Computer Graphics (ISMAR)* 2026</div>
 </div>
 </article>
 <article class="paper-row pub-bento-card" data-tags="AI">
