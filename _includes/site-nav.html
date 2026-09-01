@@ -2,11 +2,11 @@
   <div class="site-header__inner">
     <div class="site-header__brand">
       {%- if site.title-img -%}
-        <a class="site-brand" href="{{ '' | relative_url }}">
+        <a class="site-brand" href="{{ 'index' | relative_url }}">
           <img src="{{ site.title-img | relative_url }}" alt="{{ site.title | escape }}" width="160" height="48" decoding="async" loading="eager" />
         </a>
       {%- elsif site.title -%}
-        <a class="site-brand site-brand--text" href="{{ '' | relative_url }}">{{ site.title }}</a>
+        <a class="site-brand site-brand--text" href="{{ 'index' | relative_url }}">{{ site.title }}</a>
       {%- endif -%}
     </div>
 
