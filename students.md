@@ -11,7 +11,7 @@ skip_outer_bento: true
 
 ## HDR (Principal Supervisor)
 
-- Hanwen Wang (with [Hu Wang](https://huwang01.github.io/))
+- Hanwen Wang (with [Hu Wang](https://huwang01.github.io/) and [Qi Chen](https://chenqi008.github.io/))
 - [Ni Min](https://www.linkedin.com/in/min-ni-305942227/?locale=en) (with [Etienne Peillard](https://www.etiennepeillard.com/))
 - [Lokesha Rasanjalee](https://www.linkedin.com/in/lokesha-rasanjalee/) (with [Rajvinder Singh](https://researchers.adelaide.edu.au/profile/rajvinder.singh))
 - [Chaimaâ Lebdaoui](https://www.linkedin.com/in/chaima%C3%A2-lebdaoui-0898ab1bb/) (with [Guillaume Moreau](https://guillaumemoreau.github.io/))
