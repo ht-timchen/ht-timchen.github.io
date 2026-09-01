@@ -11,10 +11,10 @@ skip_outer_bento: true
 
 ## HDR (Principal Supervisor)
 
-- [Dileepa Pitawela](https://www.linkedin.com/in/dileepa-pitawela/) (with [Gustavo Carneiro](https://www.surrey.ac.uk/people/gustavo-carneiro))
 - Hanwen Wang (with [Hu Wang](https://huwang01.github.io/))
-- Ni Min (with [Etienne Peillard](https://www.etiennepeillard.com/))
-- Lokesha Rasanjalee (with [Rajvinder Singh](https://researchers.adelaide.edu.au/profile/rajvinder.singh))
+- [Ni Min](https://www.linkedin.com/in/min-ni-305942227/?locale=en) (with [Etienne Peillard](https://www.etiennepeillard.com/))
+- [Lokesha Rasanjalee](https://www.linkedin.com/in/lokesha-rasanjalee/) (with [Rajvinder Singh](https://researchers.adelaide.edu.au/profile/rajvinder.singh))
+- [Chaimaâ Lebdaoui](https://www.linkedin.com/in/chaima%C3%A2-lebdaoui-0898ab1bb/) (with [Guillaume Moreau](https://guillaumemoreau.github.io/))
 
 ## HDR (Co-supervisor)
 
@@ -28,6 +28,7 @@ skip_outer_bento: true
 
 ## Alumni (Degree, Current)
 
+- [Dileepa Pitawela](https://www.linkedin.com/in/dileepa-pitawela/) (PhD 2026)
 - Xiaoyan Wei (PhD 2026)
 - [Nilesh Ramgolam](https://www.linkedin.com/in/nilesh-ramgolam-9712941a1/) (MPhil 2025, PhD Adelaide Uni)
 - Alexander Minton (PhD 2025, SAE)
