@@ -1,6 +1,8 @@
 <footer class="site-footer">
   <div class="site-footer__inner">
+    {% unless page.layout == "home-bento" %}
     {% include site-social.html %}
+    {% endunless %}
     <p class="site-footer__meta">
       {% if site.author %}{{ site.author }} · {% endif %}{{ site.time | date: '%Y' }}
       {% if site.url-pretty %}

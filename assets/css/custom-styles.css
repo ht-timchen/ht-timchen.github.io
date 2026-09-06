@@ -191,6 +191,62 @@ h3.recent-activities + ul li a:hover {
   min-height: 0;
 }
 
+.bento-card--bio {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.bento-bio-text p:last-child {
+  margin-bottom: 0;
+}
+
+.bento-social {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.45rem;
+  margin: auto 0 0;
+  padding: 0.85rem 0 0;
+  border-top: 1px solid rgba(30, 27, 75, 0.08);
+}
+
+.bento-social > li {
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+.bento-social a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.32rem 0.7rem 0.32rem 0.5rem;
+  border-radius: 999px;
+  background: var(--color-accent-soft);
+  color: var(--color-navy);
+  text-decoration: none;
+  font-size: var(--text-sm);
+  font-weight: 600;
+  line-height: 1;
+  transition: background 0.15s ease, color 0.15s ease;
+}
+
+.bento-social a:hover,
+.bento-social a:focus-visible {
+  background: rgba(99, 102, 241, 0.16);
+  color: var(--color-navy);
+  text-decoration: none;
+}
+
+.bento-social svg {
+  width: 0.95rem;
+  height: 0.95rem;
+  flex-shrink: 0;
+  fill: currentColor;
+}
+
 .bento-card--profile {
   padding: 0;
   overflow: hidden;
@@ -364,6 +420,20 @@ main[role="main"] .bento-prose img {
   .bento-card--uts {
     border-left-color: rgba(99, 102, 241, 0.3);
     background: linear-gradient(90deg, rgba(99, 102, 241, 0.04) 0%, var(--color-surface) 45%);
+  }
+
+  .bento-social {
+    border-top-color: rgba(241, 240, 255, 0.1);
+  }
+
+  .bento-social a {
+    background: rgba(99, 102, 241, 0.12);
+    color: var(--color-navy);
+  }
+
+  .bento-social a:hover,
+  .bento-social a:focus-visible {
+    background: rgba(99, 102, 241, 0.22);
   }
 
   .bento-card--profile {

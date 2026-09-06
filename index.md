@@ -7,8 +7,13 @@ omit_page_hero: true
 
 <div class="bento-grid">
 {% include home-profile-photo.html %}
-  <section class="bento-cell bento-cell--md-8 bento-card" markdown="1">
+  <section class="bento-cell bento-cell--md-8 bento-card bento-card--bio">
+<div class="bento-bio-text" markdown="1">
+
 I am a senior lecturer (tenured assistant professor in other systems) at the [School of Computer Science and IT](https://adelaideuni.edu.au/about/school/computer-science-information-technology/), [Adelaide University](https://www.adelaide.edu.au/). Before joining Adelaide, I had the honor of working with [Prof. Patrick Baudisch](https://hpi.de/baudisch/home.html) (HPI), [Prof. Takeo Igarashi](https://www-ui.is.s.u-tokyo.ac.jp/~takeo/) (U of Tokyo), [Prof CT Lin](https://profiles.uts.edu.au/chin-teng.lin) (UTS), and [Dr. Li-Yi Wei](https://www.liyiwei.org) (Adobe Research) across various research fields including Human-Computer Interaction, Computer Graphics, and AI/ML.
+
+</div>
+    {% include site-social.html class="bento-social" labeled=true %}
   </section>
 
   <section class="bento-cell bento-cell--md-12 bento-card bento-card--mission" markdown="1">
@@ -35,8 +40,9 @@ My research mission is to **augment human capabilities by engineering human-cent
   </section>
 
   <section class="bento-cell bento-cell--md-12 bento-card bento-card--activities" markdown="1">
-### Recent activities
+### Activities
 {: .recent-activities}
+- Sep 2026: Two [HDR scholarships](https://adelaide.edu.au/research/research-degrees/research-projects/) are available, with EOIs open until 30 September: **SRTSR0128** Real-time AI-assisted anatomical segmentation to improve diagnostic workflow and specialist training in endometriosis ultrasound, and **SRTSR0056** Advancing Earlier and More Equitable Diagnosis of Endometriosis Across the Life Course.
 - Sep 2026: Added a [Fitts' Law Playground](https://ht-timchen.github.io/fitts-law-demo/).
 - Jul 2026: Min Ni's paper on AR surface contact perception was accepted to [ISMAR 2026](https://www.ieeeismar.net/2026/)!
 - May 2026: As graduate research coordinator, created the [Adelaide CSIT HDR Seminar Series](https://ht-timchen.github.io/Adelaide-CSIT-GRC/) website to build a strong research identity and sense of belonging among Adelaide HDR students.
