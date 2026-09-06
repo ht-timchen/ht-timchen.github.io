@@ -15,13 +15,29 @@ I am a senior lecturer (tenured assistant professor in other systems) at the [Sc
 My research mission is to **augment human capabilities by engineering human-centred AI systems**. I pursue this mission by actively exploring emerging technologies to build novel interactive AI systems that empower and collaborate effectively with knowledge workers. This hands-on pursuit has led to my leadership roles in large interdisciplinary teams, including serving as the U of Adelaide research lead for the Augmenting Ability CRC and as the human-AI interface lead for the [Eureka Prize-winning](https://australian.museum/get-involved/eureka-prizes/2023-eureka-prize-winners/), MRFF-funded [IMAGENDO Project](https://imagendo.org.au/).
   </section>
 
-  <section class="bento-cell bento-cell--md-12 bento-card bento-card--side" markdown="1">
-In my limited free time, I enjoy vibe coding for fun. For example, creating the [ARC Funding Analysis](https://ht-timchen.github.io/arc-discovery-analysis/) website. As graduate research coordinator, I created the [Adelaide CSIT HDR Seminar Series](https://ht-timchen.github.io/Adelaide-CSIT-GRC/) website to build a strong research identity and sense of belonging among Adelaide HDR students.
+  <section class="bento-cell bento-cell--md-12 bento-card bento-card--side">
+    <h3 class="vibe-heading">Vibe coding</h3>
+    <p>In my limited free time, I enjoy vibe coding for fun.</p>
+    <div class="vibe-projects">
+      <a class="vibe-project" href="https://ht-timchen.github.io/arc-discovery-analysis/">
+        <strong>ARC Funding Analysis</strong>
+        <span>Interactive tools for ARC Discovery Projects and fellowships, 2010–2026.</span>
+      </a>
+      <a class="vibe-project" href="https://ht-timchen.github.io/Adelaide-CSIT-GRC/">
+        <strong>Adelaide CSIT HDR Seminar Series</strong>
+        <span>Built as graduate research coordinator to strengthen research identity and belonging among Adelaide HDR students.</span>
+      </a>
+      <a class="vibe-project" href="https://ht-timchen.github.io/fitts-law-demo/">
+        <strong>Fitts' Law Playground</strong>
+        <span>Interactive demo of Fitts' Law: how target size and distance shape pointing time.</span>
+      </a>
+    </div>
   </section>
 
   <section class="bento-cell bento-cell--md-12 bento-card bento-card--activities" markdown="1">
 ### Recent activities
 {: .recent-activities}
+- Sep 2026: Added a [Fitts' Law Playground](https://ht-timchen.github.io/fitts-law-demo/).
 - Jul 2026: Min Ni's paper on AR surface contact perception was accepted to [ISMAR 2026](https://www.ieeeismar.net/2026/)!
 - May 2026: As graduate research coordinator, created the [Adelaide CSIT HDR Seminar Series](https://ht-timchen.github.io/Adelaide-CSIT-GRC/) website to build a strong research identity and sense of belonging among Adelaide HDR students.
 - Mar 2026: Added an [ARC funding lead CI citation analysis](https://ht-timchen.github.io/arc-discovery-analysis/lead_ci_citations_visualization.html) into my [ARC Funding Analysis](https://ht-timchen.github.io/arc-discovery-analysis/) website.
