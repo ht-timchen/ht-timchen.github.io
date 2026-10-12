@@ -253,6 +253,20 @@
   white-space: nowrap;
 }
 
+.paper-award {
+  display: inline-block;
+  margin-top: 0.35rem;
+  padding: 0.22rem 0.55rem;
+  font-size: var(--text-xs, 0.8125rem);
+  font-weight: 600;
+  line-height: 1.25;
+  border-radius: 6px;
+  white-space: nowrap;
+  color: #7a5b1e;
+  background-color: #fbf3e4;
+  border: 1px solid #e8d4a8;
+}
+
 /* --- Dark mode pubs overrides --- */
 @media (prefers-color-scheme: dark) {
   .pub-bento-card {
@@ -269,6 +283,12 @@
 
   .paper-tag {
     opacity: 0.85;
+  }
+
+  .paper-award {
+    color: #f0d9a0;
+    background-color: #2e2818;
+    border-color: #5c4a28;
   }
 
   #tag-buttons .tag-filter-btn {

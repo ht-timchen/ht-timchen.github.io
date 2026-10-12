@@ -42,6 +42,7 @@ My research mission is to **augment human capabilities by engineering human-cent
   <section class="bento-cell bento-cell--md-12 bento-card bento-card--activities" markdown="1">
 ### Activities
 {: .recent-activities}
+- Oct 2026: Min Ni's paper on AR surface contact perception received a [Best Paper Honorable Mention](https://www.ieeeismar.net/2026/awards/) at [ISMAR 2026](https://www.ieeeismar.net/2026/)!
 - Sep 2026: [Jie](https://www.linkedin.com/in/jie-yang-b42615235/)'s paper on density peak clustering was accepted to [NeurIPS 2026](https://neurips.cc/)!
 - Sep 2026: Hanwen's paper on 3D edge reconstruction was accepted to [AJCAI 2026](https://ajcai26.org/)!
 - Sep 2026: Two [HDR scholarships](https://adelaide.edu.au/research/research-degrees/research-projects/) are available, with EOIs open until 30 September: **SRTSR0128** Real-time AI-assisted anatomical segmentation to improve diagnostic workflow and specialist training in endometriosis ultrasound, and **SRTSR0056** Advancing Earlier and More Equitable Diagnosis of Endometriosis Across the Life Course.
