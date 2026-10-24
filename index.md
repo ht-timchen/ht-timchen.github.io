@@ -17,7 +17,7 @@ I am a senior lecturer (tenured assistant professor in other systems) at the [Sc
   </section>
 
   <section class="bento-cell bento-cell--md-12 bento-card bento-card--mission" markdown="1">
-My research mission is to **augment human capabilities by engineering human-centred AI systems**. I pursue this mission by actively exploring emerging technologies to build novel interactive AI systems that empower and collaborate effectively with knowledge workers. This hands-on pursuit has led to my leadership roles in large interdisciplinary teams, including serving as the U of Adelaide research lead for the Augmenting Ability CRC and as the human-AI interface lead for the [Eureka Prize-winning](https://australian.museum/get-involved/eureka-prizes/2023-eureka-prize-winners/), MRFF-funded [IMAGENDO Project](https://imagendo.org.au/).
+I lead the Human-Computer Interaction Lab at the [University of Adelaide](https://www.adelaide.edu.au/), specialising in human-AI interaction and spatial computing. My research centres on **situated human-AI alignment**: engineering human-AI teams that stay aligned from what they value down to what they perceive. I am the human-AI interaction design lead in the [Eureka Prize-winning](https://australian.museum/get-involved/eureka-prizes/2023-eureka-prize-winners/), MRFF-funded [IMAGENDO project](https://imagendo.org.au/). I also served as the University of Adelaide Research Lead for the [Augmenting Ability CRC](https://augmentingabilitycrc.com.au/) bid, which reached Stage 2 interview and helped launch ongoing adaptive AI partnerships in aged and disability care.
   </section>
 
   <section class="bento-cell bento-cell--md-12 bento-card bento-card--side">
